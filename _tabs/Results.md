@@ -1,5 +1,5 @@
 ---
 layout: tags
 icon: fas fa-book
-order: 5
+order: 2
 ---
