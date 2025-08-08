@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Rajasthan University # the main title
 
 tagline: Results,Study Material, Notifications # it will display as the subtitle
 
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://uor.edumate.life"
 
 github:
-  username: github_username # change to your GitHub username
+  username: geetasaini2042 #hange to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
