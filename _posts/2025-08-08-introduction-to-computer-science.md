@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Computer Science"
 date: 2025-08-08 10:00:00 +0530
-categories: [study-material]
+#categories: [study-material]
 #tags: [computer science, basics, notes]
 #image: /assets/img/posts/computer-science-intro.png
 pin: true
