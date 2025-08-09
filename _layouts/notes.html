@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+{% include lang.html %}
+
+<article class="px-1 notes-layout">
+  {% assign notes_title = page.title | default: "Notes" %}
+  {% assign notes_subtitle = page.subtitle | default: "" %}
+
+  <header class="notes-header">
+    <h1 class="dynamic-title">{{ notes_title }}</h1>
+    {% if notes_subtitle != "" %}
+      <p class="notes-subtitle">{{ notes_subtitle }}</p>
+    {% endif %}
+  </header>
+
+  <section class="notes-content">
+    {{ content }}
+  </section>
+</article>
+
+<style>
+  .notes-layout {
+    background: #fffaf4;
+    border-radius: 8px;
+    padding: 1rem;
+    border: 1px solid #eee;
+    margin-bottom: 1rem;
+  }
+  .notes-header {
+    border-bottom: 2px solid #ffcc80;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+  }
+  .notes-header h1 {
+    font-size: 1.8rem;
+    margin: 0;
+    color: #ff9800;
+  }
+  .notes-subtitle {
+    font-size: 1rem;
+    color: #666;
+    margin: 0.3rem 0 0;
+  }
+  .notes-content {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #333;
+  }
+  .notes-content p {
+    margin-bottom: 0.8rem;
+  }
+</style>
