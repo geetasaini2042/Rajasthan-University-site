@@ -1,7 +1,7 @@
 ---
 title: "English Semester 2"
 date: 2025-08-08 10:00:00 +0530
-categories: [Study Material, English]
+categories: [English]
 tags: [Semester 2, BCA, BSC, BA, BCOM, BBA]
 #image: /assets/img/posts/english-semester2.png
 pin: true
