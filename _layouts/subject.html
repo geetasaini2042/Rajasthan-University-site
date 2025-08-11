@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<h1>Subject: {{ page.subject }}</h1>
+{% assign filtered_posts = site.posts | where: "subject", page.subject %}
+<ul>
+  {% for post in filtered_posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
