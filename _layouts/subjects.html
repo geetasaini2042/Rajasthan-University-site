@@ -1,24 +1,40 @@
 ---
-layout: page
-# The Category layout
+layout: default
 ---
 
-{% include lang.html %}
+<div class="container my-5">
+  <h1 class="text-center mb-4" style="font-weight:700;">Select a Chapter</h1>
+  <p class="text-center mb-5" style="color: #666;">
+    नीचे दिए गए subjects में से चुनें और अपना अध्ययन शुरू करें।
+  </p>
 
-<div id="page-category">
-  <h1 class="ps-lg-2">
-    <i class="far fa-folder-open fa-fw text-muted"></i>
-    {{ page.title }}
-    <span class="lead text-muted ps-2">{{ page.posts | size }}</span>
-  </h1>
-
-  <ul class="content ps-0">
-    {% for post in page.posts %}
-      <li class="d-flex justify-content-between px-md-3">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <span class="dash flex-grow-1"></span>
-        {% include datetime.html date=post.date class='text-muted small text-nowrap' lang=lang %}
-      </li>
+  <div class="d-flex flex-wrap justify-content-center gap-3">
+    {% assign all_subjects = site.posts | map: "subjects" | uniq | compact %}
+    {% for subject_list in all_subjects %}
+      {% for subject in subject_list %}
+        <a href="{{ '/subjects/' | append: subject | slugify | relative_url }}"
+           class="subject-btn">
+          {{ subject }}
+        </a>
+      {% endfor %}
     {% endfor %}
-  </ul>
+  </div>
 </div>
+
+<style>
+  .subject-btn {
+    display: inline-block;
+    padding: 12px 20px;
+    background: linear-gradient(135deg, #4e54c8, #8f94fb);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
+  .subject-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 14px rgba(0,0,0,0.2);
+  }
+</style>
