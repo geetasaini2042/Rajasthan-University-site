@@ -1,26 +1,27 @@
 ---
 layout: page
-title: Subjects
+# All the Subjects of posts.
 ---
 
 <div id="subjects" class="d-flex flex-wrap mx-xl-2">
   {% assign subjects = '' | split: '' %}
+
   {% for post in site.posts %}
-    {% if post.subject %}
-      {% unless subjects contains post.subject %}
-        {% assign subjects = subjects | push: post.subject %}
+    {% for s in post.subjects %}
+      {% unless subjects contains s %}
+        {% assign subjects = subjects | push: s %}
       {% endunless %}
-    {% endif %}
+    {% endfor %}
   {% endfor %}
 
   {% assign sorted_subjects = subjects | sort_natural %}
 
   {% for s in sorted_subjects %}
     <div>
-      <a class="tag" href="{{ s | slugify | url_encode | prepend: '/subject/' | append: '/' | relative_url }}">
-        {{ s }}
+      <a class="tag" href="{{ s | slugify | url_encode | prepend: '/subjects/' | append: '/' | relative_url }}">
+        {{ s -}}
         <span class="text-muted">
-          {{ site.posts | where: "subject", s | size }}
+          {{ site.posts | where_exp: "item", "item.subjects contains '#{s}'" | size }}
         </span>
       </a>
     </div>
