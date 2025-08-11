@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<style>
+  .semester-container {
+    text-align: center;
+    padding: 2rem 1rem;
+  }
+  .semester-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: #2c3e50;
+  }
+  .semester-subtitle {
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+    color: #555;
+  }
+  .semester-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .semester-btn {
+    display: block;
+    padding: 1rem;
+    background: linear-gradient(135deg, #4e73df, #1cc88a);
+    color: white;
+    font-weight: 600;
+    border-radius: 12px;
+    text-decoration: none;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .semester-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  }
+</style>
+
+<div class="semester-container">
+  <div class="semester-title">Select a Semester</div>
+  <div class="semester-subtitle">Choose the semester to explore study materials and resources</div>
+
+  <div class="semester-grid">
+    {% assign all_semesters = site.semesters | default: site.categories['semester'] %}
+    {% if all_semesters %}
+      {% for semester in all_semesters %}
+        <a href="{{ semester.url | relative_url }}" class="semester-btn">
+          {{ semester.title | capitalize }}
+        </a>
+      {% endfor %}
+    {% else %}
+      {% for semester in site.categories %}
+        {% if semester[0] contains 'semester' %}
+          <a href="{{ '/semester/' | append: semester[0] | relative_url }}" class="semester-btn">
+            {{ semester[0] | replace: '-', ' ' | capitalize }}
+          </a>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
