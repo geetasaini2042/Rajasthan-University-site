@@ -1,21 +1,27 @@
 ---
 layout: page
-# All the Tags of posts.
+title: Subjects
 ---
 
-<div id="subject" class="d-flex flex-wrap mx-xl-2">
-  {% assign subject = '' | split: '' %}
-  {% for t in site.subject %}
-    {% assign subject = subject | push: t[0] %}
+<div id="subjects" class="d-flex flex-wrap mx-xl-2">
+  {% assign subjects = '' | split: '' %}
+  {% for post in site.posts %}
+    {% if post.subject %}
+      {% unless subjects contains post.subject %}
+        {% assign subjects = subjects | push: post.subject %}
+      {% endunless %}
+    {% endif %}
   {% endfor %}
 
-  {% assign sorted_subject = subject | sort_natural %}
+  {% assign sorted_subjects = subjects | sort_natural %}
 
-  {% for t in sorted_subject %}
+  {% for s in sorted_subjects %}
     <div>
-      <a class="tag" href="{{ t | slugify | url_encode | prepend: '/subject/' | append: '/' | relative_url }}">
-        {{ t -}}
-        <span class="text-muted">{{ site.subject[t].size }}</span>
+      <a class="tag" href="{{ s | slugify | url_encode | prepend: '/subject/' | append: '/' | relative_url }}">
+        {{ s }}
+        <span class="text-muted">
+          {{ site.posts | where: "subject", s | size }}
+        </span>
       </a>
     </div>
   {% endfor %}
