@@ -217,10 +217,14 @@ exclude:
   - "package*.json"
 
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: [subjects, semester, courses, tags]
   layouts:
-    category: category
-    tag: tag
+    subject: subject   # _layouts/subject.html
+    semester: semester # _layouts/semester.html
+    course: course     # _layouts/course.html
+    tag: tag           # _layouts/tag.html
   permalinks:
     tag: /tags/:name/
-    category: /categories/:name/
+    subject: /subjects/:name/
+    semester: /semester/:name/
+    course: /courses/:name/
