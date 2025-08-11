@@ -1,11 +1,22 @@
 ---
-layout: default
+layout: page
+# All the Tags of posts.
 ---
 
-<h1>Subject: {{ page.subject }}</h1>
-{% assign filtered_posts = site.posts | where: "subject", page.subject %}
-<ul>
-  {% for post in filtered_posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<div id="subject" class="d-flex flex-wrap mx-xl-2">
+  {% assign subject = '' | split: '' %}
+  {% for t in site.subject %}
+    {% assign subject = subject | push: t[0] %}
   {% endfor %}
-</ul>
+
+  {% assign sorted_subject = subject | sort_natural %}
+
+  {% for t in sorted_subject %}
+    <div>
+      <a class="tag" href="{{ t | slugify | url_encode | prepend: '/subject/' | append: '/' | relative_url }}">
+        {{ t -}}
+        <span class="text-muted">{{ site.subject[t].size }}</span>
+      </a>
+    </div>
+  {% endfor %}
+</div>
