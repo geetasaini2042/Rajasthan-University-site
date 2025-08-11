@@ -219,12 +219,12 @@ exclude:
 jekyll-archives:
   enabled: [subject, semester, courses, tags]
   layouts:
-    subject: sub   # _layouts/subject.html
+    sub: sub   # _layouts/subject.html
     semester: semester # _layouts/semester.html
     course: course     # _layouts/course.html
     tag: tag           # _layouts/tag.html
   permalinks:
     tag: /tags/:name/
-    subject: /subject/:name/
+    sub: /subject/:name/
     semester: /semester/:name/
     course: /courses/:name/
