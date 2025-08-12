@@ -1,23 +1,28 @@
 ---
-layout: page
-# The layout for Subject page
+layout: default
 ---
 
-{% include lang.html %}
+<h1>Subject: {{ page.subject | capitalize }}</h1>
 
-<div id="page-subject">
-  <h1 class="ps-lg-2">
-    <i class="fa fa-book fa-fw text-muted"></i>
-    {{ page.title }}
-    <span class="lead text-muted ps-2">{{ page.posts | size }}</span>
-  </h1>
-  <ul class="content ps-0">
-    {% for post in page.posts %}
-      <li class="d-flex justify-content-between px-md-3">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <span class="dash flex-grow-1"></span>
-        {% include datetime.html date=post.date class='text-muted small text-nowrap' lang=lang %}
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+<ul>
+  {% assign current_subject = page.subject | downcase %}
+  {% for post in site.posts %}
+    {% if post.subjects %}
+      {% assign subject_list = post.subjects | map: "downcase" %}
+      {% if subject_list contains current_subject %}
+        <li>
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title }}
+          </a>
+          <small class="text-muted">
+            - {{ post.date | date: "%B %d, %Y" }}
+          </small>
+        </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</ul>
+
+{% if forloop.length == 0 %}
+  <p>No posts found for subject "{{ page.subject }}".</p>
+{% endif %}
