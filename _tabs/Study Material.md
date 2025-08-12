@@ -16,6 +16,7 @@ It is important to note that while the portal is tailored for Rajasthan Universi
 - [English](https://uor.edumate.life/subjects/english)
 - [Hindi](https://uor.edumate.life/subjects/hindi)
 - [History](https://uor.edumate.life/subjects/history)
+- [NUTRITION FOR HEALTH AND FITNESS](https://uor.edumate.life/subjects/NUTRITION-FOR-HEALTH-AND-FITNESS)
 - [Political Science](https://uor.edumate.life/subjects/political-science)
 - [Geography](https://uor.edumate.life/subjects/geography)
 - [Sociology](https://uor.edumate.life/subjects/sociology)
