@@ -9,9 +9,14 @@ layout: default
   {% assign found = false %}
 
   {% for post in site.posts %}
-    {% if post.subjects %}
-      {% assign subject_list = post.subjects | map: "downcase" %}
-      {% if subject_list contains current_subject %}
+    {% assign subjects = post.subjects %}
+    {% if subjects %}
+      {% assign subjects_array = subjects %}
+      {% if subjects_array == nil %}
+        {% assign subjects_array = [subjects] %}
+      {% endif %}
+      {% assign subjects_array = subjects_array | map: "downcase" %}
+      {% if subjects_array contains current_subject %}
         <li>
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
           <small>{{ post.date | date: "%B %d, %Y" }}</small>
