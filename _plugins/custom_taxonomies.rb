@@ -5,7 +5,7 @@ Jekyll::Hooks.register :site, :after_init do |site|
   site.config['jekyll-archives'] ||= {}
   
   # Enable custom taxonomies
-  site.config['jekyll-archives']['enabled'] = ['subject', 'semester', 'courses', 'tags']
+  site.config['jekyll-archives']['enabled'] = ['subjects', 'semester', 'courses', 'tags']
 
   # Define layouts for each taxonomy
   site.config['jekyll-archives']['layouts'] = {
