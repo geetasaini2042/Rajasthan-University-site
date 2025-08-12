@@ -14,8 +14,10 @@ title: All Courses
 
     {% for post in site.posts %}
       {% assign crs = post.course %}
-      {% if crs and courses contains crs == false %}
-        {% assign courses = courses | push: crs %}
+      {% if crs %}
+        {% unless courses contains crs %}
+          {% assign courses = courses | push: crs %}
+        {% endunless %}
       {% endif %}
     {% endfor %}
 
