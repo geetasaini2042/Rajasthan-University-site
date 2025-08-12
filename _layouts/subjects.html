@@ -1,29 +1,43 @@
 ---
 layout: page
-# All the Subjects of posts.
+title: All Subjects
 ---
 
-<div id="subjects" class="d-flex flex-wrap mx-xl-2">
-  {% assign subjects = '' | split: '' %}
+<section class="subjects-section container my-5">
+  <h1 class="mb-3 text-center">Explore All Subjects</h1>
+  <p class="text-center text-muted mb-4">
+    Choose from the subjects below to find related study material and posts curated just for you.
+  </p>
 
-  {% for post in site.posts %}
-    {% for s in post.subjects %}
-      {% unless subjects contains s %}
-        {% assign subjects = subjects | push: s %}
-      {% endunless %}
+  <div id="subjects" class="d-flex flex-wrap justify-content-center gap-3">
+    {% assign subjects = '' | split: '' %}
+
+    {% for post in site.posts %}
+      {% for s in post.subjects %}
+        {% unless subjects contains s %}
+          {% assign subjects = subjects | push: s %}
+        {% endunless %}
+      {% endfor %}
     {% endfor %}
-  {% endfor %}
 
-  {% assign sorted_subjects = subjects | sort_natural %}
+    {% assign sorted_subjects = subjects | sort_natural %}
 
-  {% for s in sorted_subjects %}
-    <div>
-      <a class="tag" href="{{ s | slugify | url_encode | prepend: '/subjects/' | append: '/' | relative_url }}">
-        {{ s -}}
-        <span class="text-muted">
+    {% for s in sorted_subjects %}
+      <a 
+        href="{{ s | slugify | url_encode | prepend: '/subjects/' | append: '/' | relative_url }}" 
+        class="btn btn-outline-primary position-relative"
+        style="min-width: 120px;"
+        title="View all posts for {{ s }}"
+      >
+        {{ s }}
+        <span 
+          class="badge bg-primary rounded-pill position-absolute top-0 start-100 translate-middle"
+          style="font-size: 0.75rem;"
+          aria-label="Number of posts in {{ s }}"
+        >
           {{ site.posts | where_exp: "item", "item.subjects contains s" | size }}
         </span>
       </a>
-    </div>
-  {% endfor %}
-</div>
+    {% endfor %}
+  </div>
+</section>
