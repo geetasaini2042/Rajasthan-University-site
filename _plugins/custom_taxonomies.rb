@@ -1,31 +1,37 @@
-# _plugins/custom_taxonomies.rb
-# Jekyll Archives extra taxonomies setup
+# _plugins/subjects_archive.rb
+#
+# Custom taxonomy archive for "subjects"
+# Handles URLs like /subjects/<subject>/ using _layouts/subject.html
+# Case-insensitive on 'subject' vs 'subjects'
 
-Jekyll::Hooks.register :site, :after_init do |site|
-  # Existing config से archives object ले लो, नहीं है तो नया बना लो
-  site.config['jekyll-archives'] ||= {}
+module Jekyll
+  class SubjectsPage < Page
+    def initialize(site, base, dir, subject)
+      @site = site
+      @base = base
+      @dir  = dir
+      @name = "index.html"
 
-  # Enable archives for these collections
-  site.config['jekyll-archives']['enabled'] = [
-    'subject',
-    'semester',
-    'course',
-    'tag'
-  ]
+      self.process(@name)
+      self.read_yaml(File.join(base, '_layouts'), 'subject.html')
+      self.data['title'] = "Subject: #{subject.capitalize}"
+      self.data['subject'] = subject
+    end
+  end
 
-  # Layout mapping for each taxonomy
-  site.config['jekyll-archives']['layouts'] = {
-    'subject'  => 'subject',   # _layouts/subject.html
-    'semester' => 'semester',  # _layouts/semester.html
-    'course'   => 'course',    # _layouts/course.html
-    'tag'      => 'tag'        # _layouts/tag.html
-  }
+  class SubjectsGenerator < Generator
+    safe true
+    priority :low
 
-  # Permalinks pattern (singular form to avoid conflict with index pages)
-  site.config['jekyll-archives']['permalinks'] = {
-    'subject'  => '/subject/:name/',
-    'semester' => '/semester/:name/',
-    'course'   => '/course/:name/',
-    'tag'      => '/tags/:name/'
-  }
+    def generate(site)
+      subjects = site.posts.docs.flat_map { |post| post.data['subjects'] || [] }
+      subjects.uniq.each do |subject|
+        # Normalize folder to lowercase and slugify
+        slug = Utils.slugify(subject)
+
+        dir = "/subjects/#{slug}/"
+        site.pages << SubjectsPage.new(site, site.source, dir, subject)
+      end
+    end
+  end
 end
