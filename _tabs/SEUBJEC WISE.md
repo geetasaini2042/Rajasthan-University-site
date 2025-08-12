@@ -1,5 +1,5 @@
 ---
 layout: subjects
-icon: fas fa-stream
+icon: fa fa-caret-right
 order: 5
 ---
