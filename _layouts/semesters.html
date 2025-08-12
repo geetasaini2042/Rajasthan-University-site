@@ -1,23 +1,23 @@
 ---
-layout: default
+layout: page
+title: All Semesters
 ---
 
 <section class="semesters-section container my-5">
   <h1 class="mb-3 text-center">Explore All Semesters</h1>
   <p class="text-center text-muted mb-4">
-    Select your semester below to find related study materials and posts curated for that term.
+    Choose from the semesters below to find related study material and posts curated just for you.
   </p>
 
   <div id="semesters" class="row g-4 justify-content-center">
     {% assign semesters = '' | split: '' %}
 
     {% for post in site.posts %}
-      {% assign sem = post.semester %}
-      {% if sem %}
+      {% for sem in post.semesters %}
         {% unless semesters contains sem %}
           {% assign semesters = semesters | push: sem %}
         {% endunless %}
-      {% endif %}
+      {% endfor %}
     {% endfor %}
 
     {% assign sorted_semesters = semesters | sort_natural %}
@@ -26,17 +26,17 @@ layout: default
       <div class="col-12 col-md-4 d-flex justify-content-center">
         <a 
           href="{{ sem | slugify | url_encode | prepend: '/semesters/' | append: '/' | relative_url }}" 
-          class="btn btn-outline-success position-relative px-4 py-2 w-100"
+          class="btn btn-outline-primary position-relative px-4 py-2 w-100"
           style="max-width: 250px; border-radius: 0.5rem;"
           title="View all posts for {{ sem }}"
         >
           {{ sem }}
           <span 
-            class="badge bg-success rounded-pill position-absolute top-0 start-100 translate-middle"
+            class="badge bg-primary rounded-pill position-absolute top-0 start-100 translate-middle"
             style="font-size: 0.75rem;"
             aria-label="Number of posts in {{ sem }}"
           >
-            {{ site.posts | where: "semester", sem | size }}
+            {{ site.posts | where_exp: "item", "item.semesters contains sem" | size }}
           </span>
         </a>
       </div>
