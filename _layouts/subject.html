@@ -5,17 +5,24 @@ layout: default
 <h1>Subject: {{ page.subject | capitalize }}</h1>
 
 {% assign current_subject = page.subject | downcase %}
+{% assign posts_with_subject = site.posts | where_exp: "post", "post.subjects" %}
 
-{% assign posts_with_subject = site.posts | where_exp: "post", "post.subjects and post.subjects | join: ',' | downcase contains current_subject" %}
+{% assign filtered_posts = "" | split: "" %}
+{% for post in posts_with_subject %}
+  {% assign joined = post.subjects | join: "," | downcase %}
+  {% if joined contains current_subject %}
+    {% assign filtered_posts = filtered_posts | push: post %}
+  {% endif %}
+{% endfor %}
 
-{% if posts_with_subject.size > 0 %}
+{% if filtered_posts.size > 0 %}
   <ul>
-  {% for post in posts_with_subject %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <small>{{ post.date | date: "%B %d, %Y" }}</small>
-    </li>
-  {% endfor %}
+    {% for post in filtered_posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <small>{{ post.date | date: "%B %d, %Y" }}</small>
+      </li>
+    {% endfor %}
   </ul>
 {% else %}
   <p>No posts found for subject "{{ page.subject }}".</p>
