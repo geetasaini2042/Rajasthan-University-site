@@ -3,6 +3,7 @@ title: NUTRITION FOR HEALTH AND FITNESS - SEMESTER 2
 semesters: [Semester 2]
 courses: [BSC,BA,BCOM,BBA,BCA]
 subjects: [NUTRITION FOR HEALTH AND FITNESS]
+description: 100 Important Questions For NUTRITION FOR HEALTH AND FITNESS
 layout: post
 tags: VAC-52T-104
 ---
