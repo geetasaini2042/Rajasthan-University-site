@@ -1,29 +1,27 @@
 ---
-layout: page
-# All the Subjects of posts.
+layout: default
 ---
 
-<div id="subjects" class="d-flex flex-wrap mx-xl-2">
-  {% assign subjects = '' | split: '' %}
+<h1>Subject: {{ page.subject | capitalize }}</h1>
+
+<ul>
+  {% assign current_subject = page.subject | downcase %}
+  {% assign found = false %}
 
   {% for post in site.posts %}
-    {% for s in post.subjects %}
-      {% unless subjects contains s %}
-        {% assign subjects = subjects | push: s %}
-      {% endunless %}
-    {% endfor %}
+    {% if post.subjects %}
+      {% assign subject_list = post.subjects | map: "downcase" %}
+      {% if subject_list contains current_subject %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <small>{{ post.date | date: "%B %d, %Y" }}</small>
+        </li>
+        {% assign found = true %}
+      {% endif %}
+    {% endif %}
   {% endfor %}
+</ul>
 
-  {% assign sorted_subjects = subjects | sort_natural %}
-
-  {% for s in sorted_subjects %}
-    <div>
-      <a class="tag" href="{{ s | slugify | url_encode | prepend: '/subjects/' | append: '/' | relative_url }}">
-        {{ s -}}
-        <span class="text-muted">
-          {{ site.posts | where_exp: "item", "item.subjects contains s" | size }}
-        </span>
-      </a>
-    </div>
-  {% endfor %}
-</div>
+{% unless found %}
+  <p>No posts found for subject "{{ page.subject }}".</p>
+{% endunless %}
