@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<h1>Subject: {{ page.subject | capitalize }}</h1>
+
+{% assign current_subject = page.subject | downcase %}
+
+{%- assign filtered_posts = site.posts | where_exp: "post", "post.subjects and post.subjects | map: 'downcase' | contains: current_subject" -%}
+
+{% if filtered_posts.size > 0 %}
+  <ul>
+    {% for post in filtered_posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <small>{{ post.date | date: "%B %d, %Y" }}</small>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No posts found for subject "{{ page.subject }}".</p>
+{% endif %}
