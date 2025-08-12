@@ -1,5 +1,5 @@
 ---
-layout: categories
-icon: fas fa-stream
-order: 9
+layout: semesters
+icon: fa fa-caret-right
+order: 6
 ---
