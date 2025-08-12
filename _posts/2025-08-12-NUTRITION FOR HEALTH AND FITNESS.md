@@ -12,7 +12,248 @@ tags: VAC-52T-104
 
 This is the **NUTRITION FOR HEALTH AND FITNESS** subject page for **2nd Semester** students.
 
-ing  
+
+## Nutrition for Health and Fitness
+
+**1. According to WHO, what is the correct definition of "Health"?**  
+WHO के अनुसार "स्वास्थ्य" की सही परिभाषा क्या है?  
+A) केवल रोगों का न होना / Absence of disease only  
+B) शारीरिक, मानसिक और सामाजिक कल्याण की पूर्ण स्थिति / Complete physical, mental, and social well-being  
+C) केवल शारीरिक फिटनेस / Physical fitness only  
+D) केवल मानसिक शांति / Mental peace only  
+**उत्तर / Answer:** B  
+
+**2. What should be included in a Balanced Diet?**  
+‘Balanced Diet’ में क्या शामिल होना चाहिए?  
+A) केवल फल और सब्जियाँ / Only fruits and vegetables  
+B) सभी पोषक तत्व सही मात्रा में / All nutrients in proper amounts  
+C) केवल दूध और अनाज / Only milk and cereals  
+D) केवल वसा और प्रोटीन / Only fats and proteins  
+**उत्तर / Answer:** B  
+
+
+**3. What is at the base of the Indian Food Pyramid?**  
+भारतीय खाद्य पिरामिड में आधार (Base) पर क्या होता है?  
+A) फल और सब्जियाँ / Fruits and vegetables  
+B) दूध और डेयरी उत्पाद / Milk and dairy products  
+C) अनाज और अनाज उत्पाद / Cereals and cereal products  
+D) तेल और वसा / Oils and fats  
+**उत्तर / Answer:** C  
+
+**4. Which of the following is an example of processed food?**  
+प्रोसेस्ड फूड का उदाहरण कौन सा है?  
+A) ताजे फल / Fresh fruits  
+B) ब्राउन राइस / Brown rice  
+C) पैकेज्ड नूडल्स / Packaged noodles  
+D) ताजा सलाद / Fresh salad  
+**उत्तर / Answer:** C  
+
+**5. What is the common health effect of "Ultra-processed food"?**  
+"Ultra-processed food" का स्वास्थ्य पर सामान्य प्रभाव क्या है?  
+A) पोषण में सुधार / Improves nutrition  
+B) मोटापा और हृदय रोग का खतरा बढ़ाना / Increases risk of obesity and heart diseases  
+C) रोग प्रतिरोधक क्षमता बढ़ाना / Boosts immunity  
+D) ऊर्जा स्तर घटाना / Reduces energy levels  
+**उत्तर / Answer:** B  
+
+**6. Which is the main component of Physical Fitness?**  
+शारीरिक फिटनेस का मुख्य घटक कौन सा है?  
+A) सहनशक्ति, ताकत, लचीलापन / Endurance, strength, flexibility  
+B) केवल ताकत / Strength only  
+C) केवल सहनशक्ति / Endurance only  
+D) केवल लचीलापन / Flexibility only  
+**उत्तर / Answer:** A  
+
+**7. 'Dual burden of malnutrition' means—**  
+'Dual burden of malnutrition' का मतलब है—  
+A) कुपोषण और मोटापा दोनों की समस्या / Both undernutrition and obesity  
+B) केवल कुपोषण / Only undernutrition  
+C) केवल मोटापा / Only obesity  
+D) प्रोटीन की कमी / Protein deficiency  
+**उत्तर / Answer:** A  
+
+**8. While planning diet for children, special attention should be given to which nutrients?**  
+बच्चों के लिए आहार योजना बनाते समय किन पोषक तत्वों पर विशेष ध्यान देना चाहिए?  
+A) केवल वसा और शर्करा / Only fats and sugars  
+B) प्रोटीन, कैल्शियम और आयरन / Protein, calcium, and iron  
+C) केवल प्रोटीन / Only protein  
+D) केवल कार्बोहाइड्रेट / Only carbohydrates  
+**उत्तर / Answer:** B  
+
+**9. According to WHO guidelines, which aspect is also included in health and wellness?**  
+WHO की गाइडलाइन के अनुसार, स्वास्थ्य और कल्याण में कौन-सा पहलू भी शामिल है?  
+A) केवल आर्थिक स्थिति / Only economic status  
+B) सामाजिक कल्याण / Social well-being  
+C) केवल वजन नियंत्रण / Only weight control  
+D) केवल नींद / Only sleep  
+**उत्तर / Answer:** B  
+
+**10. Which of the following is a benefit of regular physical activity?**  
+नियमित शारीरिक गतिविधि का कौन-सा लाभ है?  
+A) रोग प्रतिरोधक क्षमता में वृद्धि / Improves immunity  
+B) तनाव में कमी / Reduces stress  
+C) वजन नियंत्रण / Weight control  
+D) उपरोक्त सभी / All of the above  
+**उत्तर / Answer:** D
+
+**11. Which vitamin is most important for calcium absorption in the body?**  
+शरीर में कैल्शियम के अवशोषण के लिए कौन-सा विटामिन सबसे महत्वपूर्ण है?  
+A) विटामिन A / Vitamin A  
+B) विटामिन D / Vitamin D  
+C) विटामिन C / Vitamin C  
+D) विटामिन K / Vitamin K  
+**उत्तर / Answer:** B  
+
+**12. What is the recommended minimum daily water intake for an average adult?**  
+एक औसत वयस्क के लिए प्रतिदिन पानी का अनुशंसित न्यूनतम सेवन कितना है?  
+A) 1-1.5 लीटर / 1–1.5 litres  
+B) 2-3 लीटर / 2–3 litres  
+C) 3-4 लीटर / 3–4 litres  
+D) 4-5 लीटर / 4–5 litres  
+**उत्तर / Answer:** B  
+
+**13. Which nutrient is the primary source of energy for the body?**  
+शरीर के लिए ऊर्जा का मुख्य स्रोत कौन-सा पोषक तत्व है?  
+A) प्रोटीन / Proteins  
+B) कार्बोहाइड्रेट / Carbohydrates  
+C) वसा / Fats  
+D) विटामिन / Vitamins  
+**उत्तर / Answer:** B  
+
+**14. BMI (Body Mass Index) is calculated using—**  
+BMI (शरीर द्रव्यमान सूचकांक) की गणना किससे की जाती है?  
+A) वजन और आयु / Weight and age  
+B) वजन और ऊँचाई / Weight and height  
+C) ऊँचाई और आयु / Height and age  
+D) केवल वजन / Only weight  
+**उत्तर / Answer:** B  
+
+**15. Which mineral is essential for healthy red blood cells?**  
+स्वस्थ लाल रक्त कोशिकाओं के लिए कौन-सा खनिज आवश्यक है?  
+A) कैल्शियम / Calcium  
+B) पोटैशियम / Potassium  
+C) आयरन / Iron  
+D) सोडियम / Sodium  
+**उत्तर / Answer:** C  
+
+**16. What is the recommended dietary source of Omega-3 fatty acids?**  
+ओमेगा-3 फैटी एसिड का अनुशंसित आहार स्रोत क्या है?  
+A) फिश ऑयल / Fish oil  
+B) गेहूँ / Wheat  
+C) दालें / Pulses  
+D) चावल / Rice  
+**उत्तर / Answer:** A  
+
+**17. Which food group should be consumed the least according to the Food Pyramid?**  
+फूड पिरामिड के अनुसार किस खाद्य समूह का सेवन सबसे कम करना चाहिए?  
+A) अनाज / Cereals  
+B) फल / Fruits  
+C) वसा और तेल / Fats and oils  
+D) सब्जियाँ / Vegetables  
+**उत्तर / Answer:** C  
+
+**18. What is the primary function of protein in the body?**  
+शरीर में प्रोटीन का मुख्य कार्य क्या है?  
+A) ऊर्जा प्रदान करना / Provide energy  
+B) शरीर की वृद्धि और मरम्मत / Growth and repair of the body  
+C) हार्मोन का निर्माण / Hormone production  
+D) हड्डियों को मजबूत करना / Strengthen bones  
+**उत्तर / Answer:** B  
+
+**19. Which of the following is an example of a convenience food?**  
+निम्न में से कौन-सा सुविधा जनक भोजन (Convenience food) का उदाहरण है?  
+A) घर का बना खाना / Home-cooked food  
+B) इंस्टैंट नूडल्स / Instant noodles  
+C) ताजे फल / Fresh fruits  
+D) हरी सब्ज़ियाँ / Green vegetables  
+**उत्तर / Answer:** B  
+
+**20. Which physical activity is best for improving cardiovascular fitness?**  
+हृदय संबंधी फिटनेस में सुधार के लिए कौन-सी शारीरिक गतिविधि सबसे अच्छी है?  
+A) वेट लिफ्टिंग / Weight lifting  
+B) योग / Yoga  
+C) दौड़ना / Running  
+D) स्ट्रेचिंग / Stretching  
+**उत्तर / Answer:** C
+
+**21. Which vitamin is also known as Ascorbic Acid?**  
+कौन-सा विटामिन "एस्कॉर्बिक एसिड" के नाम से जाना जाता है?  
+A) विटामिन A / Vitamin A  
+B) विटामिन B12 / Vitamin B12  
+C) विटामिन C / Vitamin C  
+D) विटामिन D / Vitamin D  
+**उत्तर / Answer:** C  
+
+**22. Which nutrient helps in the clotting of blood?**  
+रक्त के थक्के बनने में कौन-सा पोषक तत्व मदद करता है?  
+A) विटामिन A / Vitamin A  
+B) विटामिन K / Vitamin K  
+C) विटामिन E / Vitamin E  
+D) विटामिन C / Vitamin C  
+**उत्तर / Answer:** B  
+
+**23. Which is the richest source of Vitamin A?**  
+विटामिन A का सबसे समृद्ध स्रोत कौन-सा है?  
+A) गाजर / Carrot  
+B) सेब / Apple  
+C) चावल / Rice  
+D) आलू / Potato  
+**उत्तर / Answer:** A  
+
+**24. Which component of food helps in bowel movement and prevents constipation?**  
+भोजन का कौन-सा घटक आंतों की गति में मदद करता है और कब्ज से बचाता है?  
+A) प्रोटीन / Protein  
+B) फाइबर / Fiber  
+C) वसा / Fat  
+D) शर्करा / Sugar  
+**उत्तर / Answer:** B  
+
+**25. Which is the best time to drink water for good digestion?**  
+अच्छे पाचन के लिए पानी पीने का सबसे अच्छा समय कौन-सा है?  
+A) भोजन से ठीक पहले / Just before meal  
+B) भोजन के दौरान / During meal  
+C) भोजन के 30 मिनट बाद / 30 minutes after meal  
+D) सुबह उठते ही / Immediately after waking up  
+**उत्तर / Answer:** C  
+
+**26. Which macronutrient is most calorie-dense?**  
+कौन-सा मैक्रोन्यूट्रिएंट सबसे अधिक कैलोरी प्रदान करता है?  
+A) प्रोटीन / Protein  
+B) कार्बोहाइड्रेट / Carbohydrates  
+C) वसा / Fat  
+D) पानी / Water  
+**उत्तर / Answer:** C  
+
+**27. Which type of fat is considered healthy for the heart?**  
+कौन-सा वसा प्रकार हृदय के लिए स्वास्थ्यकर माना जाता है?  
+A) सैचुरेटेड फैट / Saturated fat  
+B) ट्रांस फैट / Trans fat  
+C) अनसैचुरेटेड फैट / Unsaturated fat  
+D) आर्टिफिशियल फैट / Artificial fat  
+**उत्तर / Answer:** C  
+
+**28. Which of the following is NOT a micronutrient?**  
+निम्न में से कौन-सा सूक्ष्म पोषक तत्व (Micronutrient) नहीं है?  
+A) विटामिन / Vitamins  
+B) खनिज / Minerals  
+C) प्रोटीन / Protein  
+D) आयरन / Iron  
+**उत्तर / Answer:** C  
+
+**29. Which mineral is necessary to prevent goitre?**  
+गलगंड (Goitre) से बचने के लिए कौन-सा खनिज आवश्यक है?  
+A) कैल्शियम / Calcium  
+B) आयोडीन / Iodine  
+C) पोटैशियम / Potassium  
+D) सोडियम / Sodium  
+**उत्तर / Answer:** B  
+
+**30. Which physical activity mainly improves flexibility?**  
+कौन-सी शारीरिक गतिविधि मुख्य रूप से लचीलापन बढ़ाती है?  
+A) दौड़ना / Running  
+B) योग / Yoga  
+C) साइकिल चलाना / Cycling  
+D) तैराकी / Swimming    
 **उत्तर / Answer:** B
 
 **31. Which nutrient helps in building and repairing body tissues?**  
