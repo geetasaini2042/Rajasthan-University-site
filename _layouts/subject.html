@@ -4,33 +4,19 @@ layout: default
 
 <h1>Subject: {{ page.subject | capitalize }}</h1>
 
-<p>Debug: page.subject = '{{ page.subject }}'</p>
+{% assign current_subject = page.subject | downcase %}
 
-<ul>
-  {% assign current_subject = page.subject | downcase %}
-  {% assign found = false %}
+{% assign posts_with_subject = site.posts | where_exp: "post", "post.subjects and post.subjects | join: ',' | downcase contains current_subject" %}
 
-  {% for post in site.posts %}
+{% if posts_with_subject.size > 0 %}
+  <ul>
+  {% for post in posts_with_subject %}
     <li>
-      <strong>{{ post.title }}</strong> - subjects: 
-      {% if post.subjects %}
-        {{ post.subjects | join: ", " }}
-      {% else %}
-        <em>No subjects defined</em>
-      {% endif %}
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <small>{{ post.date | date: "%B %d, %Y" }}</small>
     </li>
-
-    {% if post.subjects %}
-      {% assign subjects_lower = post.subjects | map: "downcase" %}
-      {% if subjects_lower contains current_subject %}
-        {% assign found = true %}
-      {% endif %}
-    {% endif %}
   {% endfor %}
-</ul>
-
-{% unless found %}
-  <p>No posts found for subject "{{ page.subject }}".</p>
+  </ul>
 {% else %}
-  <p>Posts found for subject "{{ page.subject }}".</p>
-{% endunless %}
+  <p>No posts found for subject "{{ page.subject }}".</p>
+{% endif %}
