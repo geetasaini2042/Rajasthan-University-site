@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<h1>Course: {{ page.course | capitalize }}</h1>
+
+{% assign current_course = page.course | downcase %}
+{% assign posts_with_course = site.posts | where_exp: "post", "post.courses" %}
+
+{% assign filtered_posts = "" | split: "" %}
+{% for post in posts_with_course %}
+  {% assign joined = post.courses | join: "," | downcase %}
+  {% if joined contains current_course %}
+    {% assign filtered_posts = filtered_posts | push: post %}
+  {% endif %}
+{% endfor %}
+
+{% if filtered_posts.size > 0 %}
+  <ul>
+    {% for post in filtered_posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <small>{{ post.date | date: "%B %d, %Y" }}</small>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No posts found for course "{{ page.course }}".</p>
+{% endif %}
