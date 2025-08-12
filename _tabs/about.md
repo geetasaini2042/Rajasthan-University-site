@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-user
-order: 7
+order: 8
 ---
 
 # About Me
