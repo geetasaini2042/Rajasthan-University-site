@@ -1,0 +1,45 @@
+---
+layout: page
+title: All Courses
+---
+
+<section class="courses-section container my-5">
+  <h1 class="mb-3 text-center">Explore All Courses</h1>
+  <p class="text-center text-muted mb-4">
+    Choose from the courses below to find related study material and posts curated just for you.
+  </p>
+
+  <div id="courses" class="row g-4 justify-content-center">
+    {% assign courses = '' | split: '' %}
+
+    {% for post in site.posts %}
+      {% for c in post.courses %}
+        {% unless courses contains c %}
+          {% assign courses = courses | push: c %}
+        {% endunless %}
+      {% endfor %}
+    {% endfor %}
+
+    {% assign sorted_courses = courses | sort_natural %}
+
+    {% for c in sorted_courses %}
+      <div class="col-12 col-md-4 d-flex justify-content-center">
+        <a 
+          href="{{ c | slugify | url_encode | prepend: '/courses/' | append: '/' | relative_url }}" 
+          class="btn btn-outline-primary position-relative px-4 py-2 w-100"
+          style="max-width: 250px; border-radius: 0.5rem;"
+          title="View all posts for {{ c }}"
+        >
+          {{ c }}
+          <span 
+            class="badge bg-primary rounded-pill position-absolute top-0 start-100 translate-middle"
+            style="font-size: 0.75rem;"
+            aria-label="Number of posts in {{ c }}"
+          >
+            {{ site.posts | where_exp: "item", "item.courses contains c" | size }}
+          </span>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</section>
