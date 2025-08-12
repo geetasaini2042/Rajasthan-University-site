@@ -6,12 +6,12 @@ order: 7
 
 # About Me
 
-I'm [आपका नाम], and this site is my digital space for sharing **study material**, **notes**, and **academic resources**.  
+Hello Welcome to uor.edumate.life, this site is digital space for sharing **study material**, **notes**, and **academic resources** for **Rajasthsn University**.  
 I aim to make educational content easily accessible for students across different courses.
 
 **What you'll find here:**
-- Organized Study Material by category (e.g., English, Computer Science)
-- Course-wise notes & PDFs  
+- Organized Study Material by category (e.g., English, Hindi, Physics, Chemistry, Botany, Computer Science)
+- Course-wise notes & PDFs  (e.g. BA , BSC, BCOM, BCA, BBA)
 - Useful resources like Previous Year Papers, Syllabus, and Important Questions
 
 ---
