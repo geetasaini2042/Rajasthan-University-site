@@ -1,0 +1,45 @@
+---
+layout: page
+icon: fas fa-envelope
+order: 8
+---
+
+# Contact Us
+
+We’d love to hear from you! Whether you have questions, suggestions, or need assistance, feel free to reach out.
+
+**How to Contact Us:**
+
+- **Email:** support@edumate.life  
+- **Telegram:** [Contact on Telegram](https://t.me/mr_singodiyabot)
+- **Whatsapp:** [Contact on Whatsapp](https://wa.me/ais/1810648492995605?s=5)
+
+---
+
+**Contact Form**
+
+If you prefer, you can also send us a message directly here:
+
+<form action="https://formspree.io/f/your-form-id" method="POST" style="max-width:600px;">
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="name" required style="width:100%; padding:8px;"><br><br>
+
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="_replyto" required style="width:100%; padding:8px;"><br><br>
+
+  <label for="message">Message:</label><br>
+  <textarea id="message" name="message" rows="5" required style="width:100%; padding:8px;"></textarea><br><br>
+
+  <button type="submit" style="padding:10px 20px; background-color:#007bff; color:#fff; border:none; cursor:pointer;">Send</button>
+</form>
+
+---
+
+**Follow Us on Social Media:**
+
+- [Telegram](https://t.me/RAJASTHAN_UNIVERSITY2)  
+- [Whatsapp](https://whatsapp.com/channel/0029Vb6Smi6BVJl9xQJxye09)  
+
+---
+
+We’re here to help you on your learning journey!
