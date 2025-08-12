@@ -411,6 +411,407 @@ B) संतुलित आहार / Balanced diet
 C) उच्च चीनी वाला आहार / High-sugar diet  
 D) केवल प्रोटीन आहार / Protein-only diet  
 **उत्तर / Answer:** B
+
+**51. Which mineral is essential for red blood cell production?**  
+लाल रक्त कोशिकाओं के निर्माण के लिए कौन-सा खनिज आवश्यक है?  
+A) कैल्शियम / Calcium  
+B) आयरन / Iron  
+C) पोटैशियम / Potassium  
+D) मैग्नीशियम / Magnesium  
+**उत्तर / Answer:** B  
+
+**52. Which vitamin deficiency can lead to rickets?**  
+किस विटामिन की कमी से रिकेट्स हो सकता है?  
+A) विटामिन A / Vitamin A  
+B) विटामिन D / Vitamin D  
+C) विटामिन K / Vitamin K  
+D) विटामिन B12 / Vitamin B12  
+**उत्तर / Answer:** B  
+
+**53. Which type of fat is considered healthy for the heart?**  
+हृदय के लिए कौन-सा वसा प्रकार स्वास्थ्यकर माना जाता है?  
+A) ट्रांस फैट / Trans fat  
+B) संतृप्त वसा / Saturated fat  
+C) मोनोअनसैचुरेटेड वसा / Monounsaturated fat  
+D) हाइड्रोजनीकृत वसा / Hydrogenated fat  
+**उत्तर / Answer:** C  
+
+**54. Which nutrient deficiency causes night blindness?**  
+किस पोषक तत्व की कमी से रतौंधी होती है?  
+A) विटामिन D / Vitamin D  
+B) विटामिन C / Vitamin C  
+C) विटामिन A / Vitamin A  
+D) विटामिन B6 / Vitamin B6  
+**उत्तर / Answer:** C  
+
+**55. What is the main source of Omega-3 fatty acids?**  
+ओमेगा-3 फैटी एसिड का मुख्य स्रोत क्या है?  
+A) मछली / Fish  
+B) चावल / Rice  
+C) दूध / Milk  
+D) आलू / Potato  
+**उत्तर / Answer:** A  
+
+**56. Which hormone regulates blood sugar levels?**  
+रक्त शर्करा स्तर को नियंत्रित करने वाला हार्मोन कौन-सा है?  
+A) थायरॉक्सिन / Thyroxine  
+B) इंसुलिन / Insulin  
+C) एड्रेनालिन / Adrenaline  
+D) कोर्टिसोल / Cortisol  
+**उत्तर / Answer:** B  
+
+**57. Which vitamin helps in blood clotting?**  
+रक्त का थक्का बनने में कौन-सा विटामिन मदद करता है?  
+A) विटामिन D / Vitamin D  
+B) विटामिन K / Vitamin K  
+C) विटामिन B12 / Vitamin B12  
+D) विटामिन C / Vitamin C  
+**उत्तर / Answer:** B  
+
+**58. Which nutrient is the main energy source for athletes?**  
+एथलीट्स के लिए मुख्य ऊर्जा स्रोत कौन-सा पोषक तत्व है?  
+A) प्रोटीन / Protein  
+B) वसा / Fat  
+C) कार्बोहाइड्रेट / Carbohydrates  
+D) फाइबर / Fiber  
+**उत्तर / Answer:** C  
+
+**59. Which mineral is important for muscle contraction?**  
+मांसपेशियों के संकुचन के लिए कौन-सा खनिज महत्वपूर्ण है?  
+A) कैल्शियम / Calcium  
+B) सोडियम / Sodium  
+C) आयरन / Iron  
+D) जिंक / Zinc  
+**उत्तर / Answer:** A  
+
+**60. Which of the following is a water-soluble vitamin?**  
+निम्न में से कौन-सा जल में घुलनशील विटामिन है?  
+A) विटामिन A / Vitamin A  
+B) विटामिन D / Vitamin D  
+C) विटामिन C / Vitamin C  
+D) विटामिन E / Vitamin E  
+**उत्तर / Answer:** C
+
+**61. Which nutrient is important for healthy skin and vision?**  
+स्वस्थ त्वचा और दृष्टि के लिए कौन-सा पोषक तत्व महत्वपूर्ण है?  
+A) विटामिन D / Vitamin D  
+B) विटामिन A / Vitamin A  
+C) विटामिन B1 / Vitamin B1  
+D) विटामिन K / Vitamin K  
+**उत्तर / Answer:** B  
+
+**62. Which mineral is essential for thyroid hormone production?**  
+थायरॉइड हार्मोन के निर्माण के लिए कौन-सा खनिज आवश्यक है?  
+A) कैल्शियम / Calcium  
+B) आयोडीन / Iodine  
+C) पोटैशियम / Potassium  
+D) मैग्नीशियम / Magnesium  
+**उत्तर / Answer:** B  
+
+**63. Which vitamin helps in absorption of calcium in the body?**  
+कौन-सा विटामिन शरीर में कैल्शियम के अवशोषण में मदद करता है?  
+A) विटामिन D / Vitamin D  
+B) विटामिन C / Vitamin C  
+C) विटामिन A / Vitamin A  
+D) विटामिन B12 / Vitamin B12  
+**उत्तर / Answer:** A  
+
+**64. Which nutrient is also called roughage?**  
+कौन-सा पोषक तत्व रफेज़ (Roughage) कहलाता है?  
+A) कार्बोहाइड्रेट / Carbohydrates  
+B) फाइबर / Fiber  
+C) वसा / Fat  
+D) प्रोटीन / Protein  
+**उत्तर / Answer:** B  
+
+**65. Which food is rich in Vitamin C?**  
+कौन-सा खाद्य पदार्थ विटामिन C से भरपूर है?  
+A) संतरा / Orange  
+B) दूध / Milk  
+C) चावल / Rice  
+D) मांस / Meat  
+**उत्तर / Answer:** A  
+
+**66. Which nutrient deficiency causes anemia?**  
+किस पोषक तत्व की कमी से एनीमिया होता है?  
+A) कैल्शियम / Calcium  
+B) आयरन / Iron  
+C) विटामिन C / Vitamin C  
+D) पोटैशियम / Potassium  
+**उत्तर / Answer:** B  
+
+**67. Which vitamin is produced in the skin with sunlight exposure?**  
+सूरज की रोशनी से त्वचा में कौन-सा विटामिन बनता है?  
+A) विटामिन A / Vitamin A  
+B) विटामिन D / Vitamin D  
+C) विटामिन C / Vitamin C  
+D) विटामिन E / Vitamin E  
+**उत्तर / Answer:** B  
+
+**68. Which mineral is important for strong teeth?**  
+मजबूत दाँतों के लिए कौन-सा खनिज महत्वपूर्ण है?  
+A) फ्लोराइड / Fluoride  
+B) जिंक / Zinc  
+C) पोटैशियम / Potassium  
+D) आयोडीन / Iodine  
+**उत्तर / Answer:** A  
+
+**69. Which type of carbohydrate is found in fruits?**  
+फलों में किस प्रकार का कार्बोहाइड्रेट पाया जाता है?  
+A) स्टार्च / Starch  
+B) सुक्रोज़ / Sucrose  
+C) फ्रक्टोज़ / Fructose  
+D) लैक्टोज़ / Lactose  
+**उत्तर / Answer:** C  
+
+**70. Which vitamin acts as an antioxidant?**  
+कौन-सा विटामिन एक एंटीऑक्सीडेंट के रूप में कार्य करता है?  
+A) विटामिन E / Vitamin E  
+B) विटामिन D / Vitamin D  
+C) विटामिन B6 / Vitamin B6  
+D) विटामिन K / Vitamin K  
+**उत्तर / Answer:** A
+
+**71. Which nutrient is essential for muscle building?**  
+मांसपेशियों के निर्माण के लिए कौन-सा पोषक तत्व आवश्यक है?  
+A) वसा / Fat  
+B) प्रोटीन / Protein  
+C) कार्बोहाइड्रेट / Carbohydrates  
+D) फाइबर / Fiber  
+**उत्तर / Answer:** B  
+
+**72. Which vitamin helps in blood clotting?**  
+खून के थक्के जमाने में कौन-सा विटामिन मदद करता है?  
+A) विटामिन A / Vitamin A  
+B) विटामिन C / Vitamin C  
+C) विटामिन K / Vitamin K  
+D) विटामिन E / Vitamin E  
+**उत्तर / Answer:** C  
+
+**73. Which mineral is needed for healthy bones and teeth?**  
+स्वस्थ हड्डियों और दाँतों के लिए कौन-सा खनिज आवश्यक है?  
+A) कैल्शियम / Calcium  
+B) पोटैशियम / Potassium  
+C) सोडियम / Sodium  
+D) आयरन / Iron  
+**उत्तर / Answer:** A  
+
+**74. Which nutrient is a quick source of energy?**  
+कौन-सा पोषक तत्व तुरंत ऊर्जा का स्रोत है?  
+A) प्रोटीन / Protein  
+B) वसा / Fat  
+C) कार्बोहाइड्रेट / Carbohydrates  
+D) खनिज / Minerals  
+**उत्तर / Answer:** C  
+
+**75. Which vitamin prevents scurvy?**  
+स्कर्वी रोग को रोकने वाला विटामिन कौन-सा है?  
+A) विटामिन D / Vitamin D  
+B) विटामिन C / Vitamin C  
+C) विटामिन A / Vitamin A  
+D) विटामिन K / Vitamin K  
+**उत्तर / Answer:** B  
+
+**76. Which food item contains Omega-3 fatty acids?**  
+कौन-सा खाद्य पदार्थ ओमेगा-3 फैटी एसिड से भरपूर है?  
+A) मछली / Fish  
+B) चावल / Rice  
+C) आलू / Potato  
+D) दाल / Lentils  
+**उत्तर / Answer:** A  
+
+**77. Which nutrient deficiency causes night blindness?**  
+किस पोषक तत्व की कमी से रतौंधी होती है?  
+A) विटामिन D / Vitamin D  
+B) विटामिन A / Vitamin A  
+C) आयरन / Iron  
+D) विटामिन C / Vitamin C  
+**उत्तर / Answer:** B  
+
+**78. Which mineral is important for oxygen transport in the blood?**  
+खून में ऑक्सीजन के परिवहन के लिए कौन-सा खनिज महत्वपूर्ण है?  
+A) आयोडीन / Iodine  
+B) आयरन / Iron  
+C) कैल्शियम / Calcium  
+D) मैग्नीशियम / Magnesium  
+**उत्तर / Answer:** B  
+
+**79. Which vitamin helps in strengthening the immune system?**  
+प्रतिरक्षा तंत्र को मजबूत करने में कौन-सा विटामिन मदद करता है?  
+A) विटामिन C / Vitamin C  
+B) विटामिन K / Vitamin K  
+C) विटामिन B1 / Vitamin B1  
+D) विटामिन D / Vitamin D  
+**उत्तर / Answer:** A  
+
+**80. Which nutrient provides the most energy per gram?**  
+कौन-सा पोषक तत्व प्रति ग्राम सबसे अधिक ऊर्जा प्रदान करता है?  
+A) वसा / Fat  
+B) प्रोटीन / Protein  
+C) कार्बोहाइड्रेट / Carbohydrates  
+D) खनिज / Minerals  
+**उत्तर / Answer:** A
+
+**81. Which vitamin is produced in the skin with sunlight exposure?**  
+कौन-सा विटामिन धूप में त्वचा द्वारा बनता है?  
+A) विटामिन C / Vitamin C  
+B) विटामिन D / Vitamin D  
+C) विटामिन A / Vitamin A  
+D) विटामिन K / Vitamin K  
+**उत्तर / Answer:** B  
+
+**82. Which nutrient helps in repairing body tissues?**  
+शरीर के ऊतकों की मरम्मत में कौन-सा पोषक तत्व मदद करता है?  
+A) कार्बोहाइड्रेट / Carbohydrates  
+B) वसा / Fat  
+C) प्रोटीन / Protein  
+D) खनिज / Minerals  
+**उत्तर / Answer:** C  
+
+**83. Which mineral is essential for thyroid gland function?**  
+थायरॉयड ग्रंथि के कार्य के लिए कौन-सा खनिज आवश्यक है?  
+A) आयोडीन / Iodine  
+B) कैल्शियम / Calcium  
+C) आयरन / Iron  
+D) जिंक / Zinc  
+**उत्तर / Answer:** A  
+
+**84. Which vitamin is an antioxidant that protects cells from damage?**  
+कौन-सा विटामिन एंटीऑक्सीडेंट है जो कोशिकाओं को नुकसान से बचाता है?  
+A) विटामिन A / Vitamin A  
+B) विटामिन E / Vitamin E  
+C) विटामिन D / Vitamin D  
+D) विटामिन K / Vitamin K  
+**उत्तर / Answer:** B  
+
+**85. Which nutrient deficiency leads to anemia?**  
+किस पोषक तत्व की कमी से एनीमिया होता है?  
+A) कैल्शियम / Calcium  
+B) आयरन / Iron  
+C) जिंक / Zinc  
+D) आयोडीन / Iodine  
+**उत्तर / Answer:** B  
+
+**86. Which nutrient is stored in the liver and muscles as glycogen?**  
+कौन-सा पोषक तत्व लीवर और मांसपेशियों में ग्लाइकोजन के रूप में संग्रहित होता है?  
+A) वसा / Fat  
+B) प्रोटीन / Protein  
+C) कार्बोहाइड्रेट / Carbohydrates  
+D) खनिज / Minerals  
+**उत्तर / Answer:** C  
+
+**87. Which vitamin is important for good vision?**  
+अच्छी दृष्टि के लिए कौन-सा विटामिन महत्वपूर्ण है?  
+A) विटामिन D / Vitamin D  
+B) विटामिन A / Vitamin A  
+C) विटामिन E / Vitamin E  
+D) विटामिन K / Vitamin K  
+**उत्तर / Answer:** B  
+
+**88. Which nutrient helps in regulating body temperature?**  
+शरीर का तापमान नियंत्रित करने में कौन-सा पोषक तत्व मदद करता है?  
+A) पानी / Water  
+B) वसा / Fat  
+C) प्रोटीन / Protein  
+D) कार्बोहाइड्रेट / Carbohydrates  
+**उत्तर / Answer:** A  
+
+**89. Which vitamin is also known as ascorbic acid?**  
+कौन-सा विटामिन एस्कॉर्बिक एसिड के नाम से भी जाना जाता है?  
+A) विटामिन B1 / Vitamin B1  
+B) विटामिन C / Vitamin C  
+C) विटामिन D / Vitamin D  
+D) विटामिन E / Vitamin E  
+**उत्तर / Answer:** B  
+
+**90. Which mineral helps in maintaining fluid balance in the body?**  
+शरीर में तरल संतुलन बनाए रखने में कौन-सा खनिज मदद करता है?  
+A) पोटैशियम / Potassium  
+B) आयरन / Iron  
+C) कैल्शियम / Calcium  
+D) जिंक / Zinc  
+**उत्तर / Answer:** A  
+
+**91. Which nutrient is necessary for producing enzymes and hormones?**  
+एंजाइम और हार्मोन बनाने के लिए कौन-सा पोषक तत्व आवश्यक है?  
+A) प्रोटीन / Protein  
+B) वसा / Fat  
+C) कार्बोहाइड्रेट / Carbohydrates  
+D) पानी / Water  
+**उत्तर / Answer:** A  
+
+**92. Which vitamin deficiency causes rickets in children?**  
+कौन-से विटामिन की कमी से बच्चों में रिकेट्स होता है?  
+A) विटामिन A / Vitamin A  
+B) विटामिन D / Vitamin D  
+C) विटामिन C / Vitamin C  
+D) विटामिन K / Vitamin K  
+**उत्तर / Answer:** B  
+
+**93. Which mineral is essential for nerve function?**  
+तंत्रिका कार्य के लिए कौन-सा खनिज आवश्यक है?  
+A) पोटैशियम / Potassium  
+B) कैल्शियम / Calcium  
+C) आयरन / Iron  
+D) जिंक / Zinc  
+**उत्तर / Answer:** A  
+
+**94. Which nutrient deficiency causes goiter?**  
+किस पोषक तत्व की कमी से घेंघा रोग होता है?  
+A) कैल्शियम / Calcium  
+B) आयोडीन / Iodine  
+C) आयरन / Iron  
+D) जिंक / Zinc  
+**उत्तर / Answer:** B  
+
+**95. Which vitamin helps in wound healing?**  
+घाव भरने में कौन-सा विटामिन मदद करता है?  
+A) विटामिन A / Vitamin A  
+B) विटामिन C / Vitamin C  
+C) विटामिन D / Vitamin D  
+D) विटामिन E / Vitamin E  
+**उत्तर / Answer:** B  
+
+**96. Which nutrient is the main structural component of cells?**  
+कोशिकाओं का मुख्य संरचनात्मक घटक कौन-सा पोषक तत्व है?  
+A) प्रोटीन / Protein  
+B) वसा / Fat  
+C) कार्बोहाइड्रेट / Carbohydrates  
+D) खनिज / Minerals  
+**उत्तर / Answer:** A  
+
+**97. Which vitamin is also known as retinol?**  
+कौन-सा विटामिन रेटिनॉल के नाम से भी जाना जाता है?  
+A) विटामिन C / Vitamin C  
+B) विटामिन A / Vitamin A  
+C) विटामिन D / Vitamin D  
+D) विटामिन E / Vitamin E  
+**उत्तर / Answer:** B  
+
+**98. Which nutrient helps in absorbing calcium?**  
+कैल्शियम के अवशोषण में कौन-सा पोषक तत्व मदद करता है?  
+A) विटामिन A / Vitamin A  
+B) विटामिन D / Vitamin D  
+C) विटामिन C / Vitamin C  
+D) विटामिन K / Vitamin K  
+**उत्तर / Answer:** B  
+
+**99. Which mineral is essential for making hemoglobin?**  
+हीमोग्लोबिन बनाने के लिए कौन-सा खनिज आवश्यक है?  
+A) आयरन / Iron  
+B) कैल्शियम / Calcium  
+C) जिंक / Zinc  
+D) पोटैशियम / Potassium  
+**उत्तर / Answer:** A  
+
+**100. Which nutrient is important for brain development?**  
+मस्तिष्क के विकास के लिए कौन-सा पोषक तत्व महत्वपूर्ण है?  
+A) ओमेगा-3 फैटी एसिड / Omega-3 fatty acids  
+B) विटामिन C / Vitamin C  
+C) फाइबर / Fiber  
+D) कार्बोहाइड्रेट / Carbohydrates  
+**उत्तर / Answer:** A
+
 ---
 
 > Keep learning and improve your English language skills!
