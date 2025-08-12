@@ -20,7 +20,7 @@ We’d love to hear from you! Whether you have questions, suggestions, or need a
 
 If you prefer, you can also send us a message directly here:
 
-<form action="https://formspree.io/f/your-form-id" method="POST" style="max-width:600px;">
+<form action="https://formspree.io/f/myzpoeny" method="POST" style="max-width:600px;">
   <label for="name">Name:</label><br>
   <input type="text" id="name" name="name" required style="width:100%; padding:8px;"><br><br>
 
