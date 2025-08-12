@@ -225,6 +225,6 @@ jekyll-archives:
     tag: tag           # _layouts/tag.html
   permalinks:
     tag: /tags/:name/
-    subject: /subject/:name/
+    subject: /subjects/:name/
     semester: /semester/:name/
     course: /courses/:name/
