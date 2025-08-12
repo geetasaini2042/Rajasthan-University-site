@@ -1,37 +1,25 @@
 # _plugins/custom_taxonomies.rb
-#
-# Custom taxonomy archives for Jekyll (subjects, semester, courses)
-# Works like tags/categories
+require 'jekyll-archives'
 
-module Jekyll
-  class TaxonomyPage < Page
-    def initialize(site, base, dir, taxonomy_name, term)
-      @site = site
-      @base = base
-      @dir  = dir
-      @name = "index.html"
+Jekyll::Hooks.register :site, :after_init do |site|
+  site.config['jekyll-archives'] ||= {}
+  
+  # Enable custom taxonomies
+  site.config['jekyll-archives']['enabled'] = ['subject', 'semester', 'courses', 'tags']
 
-      self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), "#{taxonomy_name}.html")
-      self.data['title'] = "#{term.capitalize} - #{taxonomy_name.capitalize}"
-      self.data[taxonomy_name] = term
-    end
-  end
+  # Define layouts for each taxonomy
+  site.config['jekyll-archives']['layouts'] = {
+    'subject'  => 'subject',   # _layouts/subject.html
+    'semester' => 'semester',  # _layouts/semester.html
+    'courses'  => 'course',    # _layouts/course.html
+    'tag'      => 'tag'        # _layouts/tag.html
+  }
 
-  class TaxonomyGenerator < Generator
-    safe true
-
-    def generate(site)
-      # Define which taxonomies to handle
-      taxonomies = ["subjects", "semester", "courses"]
-
-      taxonomies.each do |taxonomy|
-        terms = site.posts.docs.flat_map { |p| p.data[taxonomy] || [] }.uniq
-        terms.each do |term|
-          dir = "/#{taxonomy}/#{term.downcase}/"
-          site.pages << TaxonomyPage.new(site, site.source, dir, taxonomy, term)
-        end
-      end
-    end
-  end
+  # Define permalinks for each taxonomy
+  site.config['jekyll-archives']['permalinks'] = {
+    'subject'  => '/subjects/:name/',
+    'semester' => '/semester/:name/',
+    'courses'  => '/courses/:name/',
+    'tag'      => '/tags/:name/'
+  }
 end
