@@ -6,41 +6,22 @@ layout: default
 
 <ul>
   {% assign current_subject = page.subject | downcase %}
-  {% assign found_posts = false %}
+  {% assign found = false %}
   
   {% for post in site.posts %}
     {% if post.subjects %}
-      {% assign subject_list = post.subjects %}
-      {% if subject_list == post.subjects and subject_list != null %}
-        {% if subject_list contains current_subject %}
-          <li>
-            <a href="{{ post.url | relative_url }}">
-              {{ post.title }}
-            </a>
-            <small class="text-muted">
-              - {{ post.date | date: "%B %d, %Y" }}
-            </small>
-          </li>
-          {% assign found_posts = true %}
-        {% endif %}
-      {% endif %}
-    {% else %}
-      <!-- Handle single string subject -->
-      {% if post.subject and post.subject | downcase == current_subject %}
+      {% assign subject_list = post.subjects | map: "downcase" %}
+      {% if subject_list contains current_subject %}
         <li>
-          <a href="{{ post.url | relative_url }}">
-            {{ post.title }}
-          </a>
-          <small class="text-muted">
-            - {{ post.date | date: "%B %d, %Y" }}
-          </small>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <small class="text-muted">{{ post.date | date: "%B %d, %Y" }}</small>
         </li>
-        {% assign found_posts = true %}
+        {% assign found = true %}
       {% endif %}
     {% endif %}
   {% endfor %}
 </ul>
 
-{% unless found_posts %}
+{% unless found %}
   <p>No posts found for subject "{{ page.subject }}".</p>
 {% endunless %}
