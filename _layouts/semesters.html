@@ -14,8 +14,10 @@ title: All Semesters
 
     {% for post in site.posts %}
       {% assign sem = post.semester %}
-      {% if sem and semesters contains sem == false %}
-        {% assign semesters = semesters | push: sem %}
+      {% if sem %}
+        {% unless semesters contains sem %}
+          {% assign semesters = semesters | push: sem %}
+        {% endunless %}
       {% endif %}
     {% endfor %}
 
