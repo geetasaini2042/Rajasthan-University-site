@@ -18,7 +18,7 @@ layout: page
 
   {% for s in sorted_subjects %}
     <div>
-      <a class="tag" href="{{ s | slugify | url_encode | prepend: '/subject/' | append: '/' | relative_url }}">
+      <a class="tag" href="{{ s | slugify | url_encode | prepend: '/subjects/' | append: '/' | relative_url }}">
         {{ s -}}
         <span class="text-muted">
           {{ site.posts | where_exp: "item", "item.subjects contains s" | size }}
