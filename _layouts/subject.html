@@ -7,7 +7,7 @@ layout: default
 <ul>
   {% assign current_subject = page.subject | downcase %}
   {% assign found = false %}
-  
+
   {% for post in site.posts %}
     {% if post.subjects %}
       {% assign subject_list = post.subjects | map: "downcase" %}
