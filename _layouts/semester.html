@@ -2,11 +2,18 @@
 layout: default
 ---
 
-<h1>Subject: {{ page.subject | capitalize }}</h1>
+<h1>Semester: {{ page.semester | capitalize }}</h1>
 
-{% assign current_subject = page.subject | downcase %}
+{% assign current_semester = page.semester | downcase %}
+{% assign posts_with_semester = site.posts | where_exp: "post", "post.semesters" %}
 
-{%- assign filtered_posts = site.posts | where_exp: "post", "post.subjects and post.subjects | map: 'downcase' | contains: current_subject" -%}
+{% assign filtered_posts = "" | split: "" %}
+{% for post in posts_with_semester %}
+  {% assign joined = post.semesters | join: "," | downcase %}
+  {% if joined contains current_semester %}
+    {% assign filtered_posts = filtered_posts | push: post %}
+  {% endif %}
+{% endfor %}
 
 {% if filtered_posts.size > 0 %}
   <ul>
@@ -18,5 +25,5 @@ layout: default
     {% endfor %}
   </ul>
 {% else %}
-  <p>No posts found for subject "{{ page.subject }}".</p>
+  <p>No posts found for semester "{{ page.semester }}".</p>
 {% endif %}
