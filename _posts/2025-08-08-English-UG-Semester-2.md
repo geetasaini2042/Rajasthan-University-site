@@ -12,7 +12,7 @@ tags: [English,AEC-52T-103]
 This is the **English** subject page for **2nd Semester** students.
 
 ### Syllabus
-
+![English Semester 2 Syllabus]()
 
 ## PREVIOUS YEAR PAPERS
 
