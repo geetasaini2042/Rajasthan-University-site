@@ -3,17 +3,22 @@ title: NUTRITION FOR HEALTH AND FITNESS - SEMESTER 2
 semesters: [Semester 2]
 courses: [BSC,BA,BCOM,BBA,BCA]
 subjects: [NUTRITION FOR HEALTH AND FITNESS]
-description: 100 Important Questions For NUTRITION FOR HEALTH AND FITNESS
+description: NUTRITION FOR HEALTH AND FITNESS
 layout: post
 tags: VAC-52T-104
 ---
 
 ## NUTRITION FOR HEALTH AND FITNESS – 2nd Semester
 
-This is the **NUTRITION FOR HEALTH AND FITNESS** subject page for **2nd Semester** students.
+This is the **NUTRITION FOR HEALTH AND FITNESS** subject page for **2nd Semester Value Added Courses** students.
 
+## PREVIOUS YEAR PAPERS 
+| Year | College | Download |
+|----------|----------|----------|
+| 2024-24 | Non | [Download here](https://files.edumate.life/PYQ/Nutrition fir Health and Fitness RC 2024-25.pdf)|
+| Row 2 C1 | Row 2 C2 | Row 2 C3 |
 
-## Nutrition for Health and Fitness
+## IMPORTANT QUESTIONS
 
 **1. According to WHO, what is the correct definition of "Health"?**  
 WHO के अनुसार "स्वास्थ्य" की सही परिभाषा क्या है?  
