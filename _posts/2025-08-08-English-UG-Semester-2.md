@@ -12,7 +12,7 @@ tags: [English,AEC-52T-103]
 This is the **English** subject page for **2nd Semester** students.
 
 ### Syllabus
-![English Semester 2 Syllabus]()
+![English Semester 2 Syllabus](https://sainipankaj12.serv00.net/TelegramStream.php?file_id=AgACAgUAAyEGAASQTtqMAAJSIWicr46af6nfWtv7cypguoxA9n2oAAJDyDEb1cboVPdllr9j2wABmwAIAQADAgADeQAHHgQ&file_type=photo)
 
 ## PREVIOUS YEAR PAPERS
 
