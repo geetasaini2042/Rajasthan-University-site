@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title desc">
+  <title>Edumate Logo</title>
+  <desc>Open book + mortarboard + green check with EDUMATE text</desc>
+
+  <!-- ===== Adjustable Colors ===== -->
+  <defs>
+    <style>
+      .navy { fill:#0B2A45; }
+      .blue { fill:#2F6FB3; }
+      .light { fill:#57A6FF; }
+      .page { fill:#E9F3FF; }
+      .check{ fill:#34C759; }
+      .stroke-white { stroke:#FFFFFF; stroke-width:18; stroke-linejoin:round; }
+    </style>
+  </defs>
+
+  <!-- ===== Icon Group ===== -->
+  <g transform="translate(200,50) scale(1.05)">
+    <!-- Book base (outer) -->
+    <path class="blue"
+      d="M40,330
+         c0,-120 110,-140 210,-110
+         c100,-30 210,-10 210,110
+         v110 c0,18 -14,32 -32,32
+         c-86,0 -144,-23 -178,-46
+         c-34,23 -92,46 -178,46
+         c-18,0 -32,-14 -32,-32 z"/>
+    <!-- Pages (inner) -->
+    <path class="page"
+      d="M86,330
+         c0,-76 76,-98 164,-74
+         v164
+         c-60,28 -116,42 -164,42
+         c-12,0 -22,-10 -22,-22
+         v-110 z"/>
+    <path class="page"
+      d="M614,330
+         c0,-76 -76,-98 -164,-74
+         v164
+         c60,28 116,42 164,42
+         c12,0 22,-10 22,-22
+         v-110 z"/>
+    <!-- Book edges (light accent) -->
+    <path class="light"
+      d="M250,420 c-50,30 -120,54 -204,54 a32,32 0 0 1 -32,-32 v-20
+         c0,18 14,32 32,32 78,0 142,-18 204,-42z"/>
+    <path class="light"
+      d="M546,420 c50,30 120,54 204,54 a32,32 0 0 0 32,-32 v-20
+         c0,18 -14,32 -32,32 -78,0 -142,-18 -204,-42z"/>
+
+    <!-- Mortarboard (cap) -->
+    <polygon class="navy"
+      points="250,150 450,200 250,250 50,200"/>
+    <rect class="navy" x="210" y="235" width="80" height="36" rx="12"/>
+    <!-- Tassel -->
+    <path class="navy"
+      d="M420,205 l40,18 v70 a18,18 0 1 1 -18,0 v-54 l-22,-10 z"/>
+
+    <!-- Checkmark with white stroke inset for separation -->
+    <path class="check stroke-white"
+      d="M230,330
+         l-70,70
+         a24,24 0 0 0 34,34
+         l66,-66
+         l92,92
+         a24,24 0 1 0 34,-34
+         l-109,-109
+         a24,24 0 0 0 -34,0 z"/>
+  </g>
+
+  <!-- ===== Wordmark ===== -->
+  <g transform="translate(70,600)">
+    <text x="0" y="0" font-size="120" font-weight="800"
+          font-family="Poppins, Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+          letter-spacing="6" class="navy">EDUMATE</text>
+  </g>
+</svg>
