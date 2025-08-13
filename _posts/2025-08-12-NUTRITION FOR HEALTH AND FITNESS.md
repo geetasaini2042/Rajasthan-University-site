@@ -12,11 +12,12 @@ tags: VAC-52T-104
 
 This is the **NUTRITION FOR HEALTH AND FITNESS** subject page for **2nd Semester Value Added Courses** students.
 
-## PREVIOUS YEAR PAPERS 
-| Year | College | Download |
-|----------|----------|----------|
-| 2024-24 | Non | [Download here](https://files.edumate.life/PYQ/Nutrition fir Health and Fitness RC 2024-25.pdf)|
-| Row 2 C1 | Row 2 C2 | Row 2 C3 |
+## PREVIOUS YEAR PAPERS
+
+| Year     | College | Download |
+|----------|---------|----------|
+| 2024-25  | Non     | [Download here](https://files.edumate.life/PYQ/Nutrition%20for%20Health%20and%20Fitness%20RC%202024-25.pdf) |
+| Row 2 C1 | Row 2 C2| Row 2 C3 |
 
 ## IMPORTANT QUESTIONS
 
