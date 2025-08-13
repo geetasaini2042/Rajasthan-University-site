@@ -1,15 +1,18 @@
 ---
 title: English Semester 2
-courses: [BSc]
+courses: [BSC,BA,BCOM, BBA, BCA]
 semesters: [Semester2]
 subjects: [English]
 layout: post
-tags: english
+tags: [English,AEC-52T-103]
 ---
 
-## English – 2nd Semester
+## Fundations of English Language: A Comprehensive Introduction – 2nd Semester
 
-This is the **English** subject page for **B.Sc 2nd Semester** students.
+This is the **English** subject page for **2nd Semester** students.
+
+### Syllabus
+
 
 ## PREVIOUS YEAR PAPERS
 
@@ -19,13 +22,7 @@ This is the **English** subject page for **B.Sc 2nd Semester** students.
 |2023-24|Non|[Download here](https://files.edumate.life/Comman/ba-bsc-bcom-1-sem-foundations-of-english-language-a-comprehensive-aec-51t-101-may-2024.pdf)|
 | 2023  | -     | [Download here](https://files.edumate.life/Yearl-exam/ba-part-1-general-english-1003-2023.pdf) |
 
-### 📝 Notes
-You will find detailed notes and explanations for each topic here.
 
-### 📂 Download Resources
-- [English Notes PDF](#)
-- [Previous Year Papers](#)
-- [Syllabus PDF](#)
 
 ---
 
