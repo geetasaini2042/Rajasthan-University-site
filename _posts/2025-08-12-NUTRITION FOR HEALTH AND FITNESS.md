@@ -16,8 +16,8 @@ This is the **NUTRITION FOR HEALTH AND FITNESS** subject page for **2nd Semester
 
 | Year     | College | Download |
 |----------|---------|----------|
-| 2024-25  | Non     | [Download here](https://files.edumate.life/PYQ/Nutrition%20for%20Health%20and%20Fitness%20RC%202024-25.pdf) |
-| Row 2 C1 | Row 2 C2| Row 2 C3 |
+| 2024-25  | Regular     | [Download here](https://files.edumate.life/PYQ/Nutrition%20for%20Health%20and%20Fitness%20RC%202024-25.pdf) |
+| 2024-25 | Non | [Download here](https://files.edumate.life/PYQ/Nutrition%20for%20health%20and%20fitness%20nc%202024-25.pdf)|
 
 ## IMPORTANT QUESTIONS
 
