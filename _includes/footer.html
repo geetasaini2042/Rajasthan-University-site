@@ -8,16 +8,7 @@
   "
 >
   <p>
-    {{- '©' }}
-    <time>{{ 'now' | date: '%Y' }}</time>
-
-    {% if site.social.links %}
-      <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
-    {% else %}
-      <em class="fst-normal">{{ site.social.name }}</em>.
-    {% endif %}
-
-    <!-- Directly replace the copyright text -->
-    <span>All rights reserved.</span>
+    © <time>{{ 'now' | date: '%Y' }}</time>
+    <a href="https://edumate.life" target="_blank" rel="noopener">Edumate Life</a> – All Rights Reserved.
   </p>
 </footer>
