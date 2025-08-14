@@ -1,7 +1,7 @@
 ---
 title: English Semester 2
 courses: [BSC,BA,BCOM, BBA, BCA]
-semesters: [Semester2]
+semesters: [Semester 2]
 subjects: [English]
 layout: post
 tags: [English,AEC-52T-103]
