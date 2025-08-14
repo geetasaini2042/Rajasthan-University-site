@@ -1,4 +1,16 @@
-## Business Communication – MCQ Questions
+---
+title: Business Communication Skills UG
+courses: [BSC,BA,BCOM, BBA, BCA]
+semesters: [Semester 1, Semester2]
+subjects: [BUSINESS COMMUNICATION SKILLS]
+layout: post
+tags: [business skills,SEC-51T-104]
+---
+
+## PREVIOUS YEAR PAPERS 
+> COMMING SOON...
+
+## IMPORTANT MCQ QUESTIONS
 
 1. **What is the main purpose of business communication?**  
    **व्यवसायिक संचार का मुख्य उद्देश्य क्या है?**  
