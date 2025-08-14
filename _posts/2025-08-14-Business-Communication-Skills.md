@@ -3,6 +3,7 @@ title: Business Communication Skills UG
 courses: [BSC,BA,BCOM, BBA, BCA]
 semesters: [Semester 1, Semester 2]
 subjects: [BUSINESS COMMUNICATION SKILLS]
+description: Previous Year Papers, Important Questions and more study materials
 layout: post
 tags: [business skills,SEC-51T-104]
 ---
