@@ -333,95 +333,6 @@ tags: [business skills,SEC-51T-104]
     d) To keep communication secret (संचार को गुप्त रखना)  
     **Answer / उत्तर:** a) To promote products and services (उत्पाद और सेवाओं को बढ़ावा देना)
 
-41. **The response given by the receiver to the sender’s message is called ________**  
-    **प्राप्तकर्ता द्वारा प्रेषक के संदेश को दिए गए जवाब को क्या कहते हैं?**  
-    a) Encoding (एन्कोडिंग)  
-    b) Decoding (डीकोडिंग)  
-    c) Feedback (प्रतिक्रिया)  
-    d) Medium (माध्यम)  
-    **Answer / उत्तर:** c) Feedback (प्रतिक्रिया)  
-    
-
-42. **Which part of a letter gives it legal validity?**  
-    **पत्र के किस भाग से उसे कानूनी मान्यता मिलती है?**  
-    a) Subject line (विषय पंक्ति)  
-    b) Signature (हस्ताक्षर)  
-    c) Confidential notation (गोपनीय नोटिस)  
-    d) Enclosure block (संलग्न खंड)  
-    **Answer / उत्तर:** b) Signature (हस्ताक्षर)  
-    
-
-43. **Notices and circulars are examples of _________ communication.**  
-    **नोटिस और परिपत्र किस प्रकार के संचार के उदाहरण हैं?**  
-    a) Upward (ऊर्ध्वगामी)  
-    b) Downward (अधोगामी)  
-    c) Grapevine (गलतफहम संचार)  
-    d) Horizontal (क्षैतिज)  
-    **Answer / उत्तर:** b) Downward (अधोगामी)  
-    
-
-44. **Which of the following is a form of non-verbal communication?**  
-    **निम्न में से कौन-सा गैर-मौखिक संचार का रूप है?**  
-    a) Letter (पत्र)  
-    b) Circular (परिपत्र)  
-    c) Report (रिपोर्ट)  
-    d) Facial expressions (चेहरे के हाव-भाव)  
-    **Answer / उत्तर:** d) Facial expressions (चेहरे के हाव-भाव)  
-    
-
-45. **Which communication channel is considered the most informal?**  
-    **कौन-सा संचार माध्यम सबसे अनौपचारिक माना जाता है?**  
-    a) Written communication (लिखित संचार)  
-    b) Verbal communication (मौखिक संचार)  
-    c) Non-verbal communication (गैर-मौखिक संचार)  
-    d) Grapevine communication (अफवाह संचार)  
-    **Answer / उत्तर:** d) Grapevine communication (अफवाह संचार)  
-    
-
-46. **Which element is NOT part of the communication cycle?**  
-    **संचार चक्र का हिस्सा कौन-सा तत्व नहीं है?**  
-    a) Source (स्रोत)  
-    b) Message (संदेश)  
-    c) Cognition (संज्ञान)  
-    d) Feedback (प्रतिक्रिया)  
-    **Answer / उत्तर:** c) Cognition (संज्ञान)  
-    
-
-47. **Which statement about communication is incorrect?**  
-    **संचार के बारे में कौन-सा कथन गलत है?**  
-    a) It is a process to establish mutual relationship (यह एक पारस्परिक संबंध स्थापित करने की प्रक्रिया है)  
-    b) It is a static process (यह एक स्थिर प्रक्रिया है)  
-    c) It is a purposeful process (यह एक उद्देश्यपूर्ण प्रक्रिया है)  
-    d) It includes psycho-social aspects (इसमें मनो-सामाजिक पहलू शामिल हैं)  
-    **Answer / उत्तर:** b) It is a static process (यह एक स्थिर प्रक्रिया है)  
-    
-
-48. **Letters which are used to persuade readers to take a particular action are called ________.**  
-    **वे पत्र जो पाठकों को किसी विशेष कार्य के लिए प्रेरित करने हेतु लिखे जाते हैं, उन्हें क्या कहते हैं?**  
-    a) Inquiry letters (पूछ-विचार पत्र)  
-    b) Bad news letters (खराब समाचार पत्र)  
-    c) Persuasive / Sales letters (प्रेरक / बिक्री पत्र)  
-    d) Invitation letters (निमंत्रण पत्र)  
-    **Answer / उत्तर:** c) Persuasive / Sales letters (प्रेरक / बिक्री पत्र)  
-    
-
-49. **Which communication includes Sender and Receiver being the same person?**  
-    **कौन-सा संचार है जिसमें प्रेषक और प्राप्तकर्ता वही व्यक्ति होता है?**  
-    a) Interpersonal communication (अंतर-व्यक्तिगत संचार)  
-    b) Intrapersonal communication (आंतरिक-व्यक्तिगत संचार)  
-    c) Non-verbal communication (गैर-मौखिक संचार)  
-    d) Written communication (लिखित संचार)  
-    **Answer / उत्तर:** b) Intrapersonal communication (आंतरिक-व्यक्तिगत संचार)  
-    
-
-50. **Which internal body cue is included in non-verbal communication?**  
-    **गैर-मौखिक संचार में कौन-सा आंतरिक शरीर संकेत शामिल होता है?**  
-    a) Eye contact and posture (आंखों का संपर्क और मुद्रा)  
-    b) Touch and voice (स्पर्श और आवाज़)  
-    c) None of the above (उपरोक्त में से कोई नहीं)  
-    d) Both a and b (दोनों a और b)  
-    **Answer / उत्तर:** d) Both a and b (दोनों a और b)  
-    
 
 41. **What is the response given by the receiver to the sender’s message called?**  
     **प्राप्तकर्ता द्वारा प्रेषक के संदेश को दिए गए जवाब को क्या कहते हैं?**  
@@ -721,10 +632,6 @@ tags: [business skills,SEC-51T-104]
     d) All of the above (उपरोक्त सभी)  
     **Answer / उत्तर:** d) All of the above (उपरोक्त सभी)**
 
-76. **Union and responsibility, authority and responsibility differentiation is important.**  
-    **‘कृपया ध्यान दें’** * (This was from reddit but not suitable MCQ; skip)*
-
-No reliable sources for 76–80 found quickly; skipping to 80.
 
 77. **Listening that goes beyond what's said is deep listening.**  
     **जो सुनने से परे जाकर समझता है वह गहरा सुनना है।**  
@@ -937,3 +844,93 @@ No reliable sources for 76–80 found quickly; skipping to 80.
      d) Oral and non-verbal communication (मौखिक और गैर-मौखिक)  
      **Answer / उत्तर:** c) Verbal and non-verbal communication (मौखिक और गैर-मौखिक)  
      
+
+41. **The response given by the receiver to the sender’s message is called ________**  
+    **प्राप्तकर्ता द्वारा प्रेषक के संदेश को दिए गए जवाब को क्या कहते हैं?**  
+    a) Encoding (एन्कोडिंग)  
+    b) Decoding (डीकोडिंग)  
+    c) Feedback (प्रतिक्रिया)  
+    d) Medium (माध्यम)  
+    **Answer / उत्तर:** c) Feedback (प्रतिक्रिया)  
+    
+
+42. **Which part of a letter gives it legal validity?**  
+    **पत्र के किस भाग से उसे कानूनी मान्यता मिलती है?**  
+    a) Subject line (विषय पंक्ति)  
+    b) Signature (हस्ताक्षर)  
+    c) Confidential notation (गोपनीय नोटिस)  
+    d) Enclosure block (संलग्न खंड)  
+    **Answer / उत्तर:** b) Signature (हस्ताक्षर)  
+    
+
+43. **Notices and circulars are examples of _________ communication.**  
+    **नोटिस और परिपत्र किस प्रकार के संचार के उदाहरण हैं?**  
+    a) Upward (ऊर्ध्वगामी)  
+    b) Downward (अधोगामी)  
+    c) Grapevine (गलतफहम संचार)  
+    d) Horizontal (क्षैतिज)  
+    **Answer / उत्तर:** b) Downward (अधोगामी)  
+    
+
+44. **Which of the following is a form of non-verbal communication?**  
+    **निम्न में से कौन-सा गैर-मौखिक संचार का रूप है?**  
+    a) Letter (पत्र)  
+    b) Circular (परिपत्र)  
+    c) Report (रिपोर्ट)  
+    d) Facial expressions (चेहरे के हाव-भाव)  
+    **Answer / उत्तर:** d) Facial expressions (चेहरे के हाव-भाव)  
+    
+
+45. **Which communication channel is considered the most informal?**  
+    **कौन-सा संचार माध्यम सबसे अनौपचारिक माना जाता है?**  
+    a) Written communication (लिखित संचार)  
+    b) Verbal communication (मौखिक संचार)  
+    c) Non-verbal communication (गैर-मौखिक संचार)  
+    d) Grapevine communication (अफवाह संचार)  
+    **Answer / उत्तर:** d) Grapevine communication (अफवाह संचार)  
+    
+
+46. **Which element is NOT part of the communication cycle?**  
+    **संचार चक्र का हिस्सा कौन-सा तत्व नहीं है?**  
+    a) Source (स्रोत)  
+    b) Message (संदेश)  
+    c) Cognition (संज्ञान)  
+    d) Feedback (प्रतिक्रिया)  
+    **Answer / उत्तर:** c) Cognition (संज्ञान)  
+    
+
+47. **Which statement about communication is incorrect?**  
+    **संचार के बारे में कौन-सा कथन गलत है?**  
+    a) It is a process to establish mutual relationship (यह एक पारस्परिक संबंध स्थापित करने की प्रक्रिया है)  
+    b) It is a static process (यह एक स्थिर प्रक्रिया है)  
+    c) It is a purposeful process (यह एक उद्देश्यपूर्ण प्रक्रिया है)  
+    d) It includes psycho-social aspects (इसमें मनो-सामाजिक पहलू शामिल हैं)  
+    **Answer / उत्तर:** b) It is a static process (यह एक स्थिर प्रक्रिया है)  
+    
+
+48. **Letters which are used to persuade readers to take a particular action are called ________.**  
+    **वे पत्र जो पाठकों को किसी विशेष कार्य के लिए प्रेरित करने हेतु लिखे जाते हैं, उन्हें क्या कहते हैं?**  
+    a) Inquiry letters (पूछ-विचार पत्र)  
+    b) Bad news letters (खराब समाचार पत्र)  
+    c) Persuasive / Sales letters (प्रेरक / बिक्री पत्र)  
+    d) Invitation letters (निमंत्रण पत्र)  
+    **Answer / उत्तर:** c) Persuasive / Sales letters (प्रेरक / बिक्री पत्र)  
+    
+
+49. **Which communication includes Sender and Receiver being the same person?**  
+    **कौन-सा संचार है जिसमें प्रेषक और प्राप्तकर्ता वही व्यक्ति होता है?**  
+    a) Interpersonal communication (अंतर-व्यक्तिगत संचार)  
+    b) Intrapersonal communication (आंतरिक-व्यक्तिगत संचार)  
+    c) Non-verbal communication (गैर-मौखिक संचार)  
+    d) Written communication (लिखित संचार)  
+    **Answer / उत्तर:** b) Intrapersonal communication (आंतरिक-व्यक्तिगत संचार)  
+    
+
+50. **Which internal body cue is included in non-verbal communication?**  
+    **गैर-मौखिक संचार में कौन-सा आंतरिक शरीर संकेत शामिल होता है?**  
+    a) Eye contact and posture (आंखों का संपर्क और मुद्रा)  
+    b) Touch and voice (स्पर्श और आवाज़)  
+    c) None of the above (उपरोक्त में से कोई नहीं)  
+    d) Both a and b (दोनों a और b)  
+    **Answer / उत्तर:** d) Both a and b (दोनों a और b)  
+    
