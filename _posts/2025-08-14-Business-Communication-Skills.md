@@ -667,8 +667,8 @@ tags: [business skills,SEC-51T-104]
     d) None (कोई नहीं)  
     **Answer / उत्तर:** a) Vertical communication (लंबवत संचार)**
 
-80. **Dunning letters are also called Collection letters.**  
-    **डनिंग लेटर को संग्रह पत्र (कलेक्शन लेटर) भी कहते हैं।**  
+80. **Dunning letters are also called .......**  
+    **डनिंग लेटर को ....... भी कहते हैं।**  
     a) Collection letters (संग्रह पत्र)  
     b) Letter of credit (क्रेडिट पत्र)  
     c) Complaint letters (शिकायत पत्र)  
