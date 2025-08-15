@@ -7,7 +7,8 @@ description: Previous Year Papers, Important Questions and more study materials
 layout: post
 tags: [business skills,SEC-51T-104]
 ---
-
+## SYLLABUS 
+![Business Communication Skills UG semester 2 Syllabus]()
 ## PREVIOUS YEAR PAPERS 
 > COMMING SOON...
 
