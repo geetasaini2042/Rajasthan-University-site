@@ -635,6 +635,13 @@ tags: [business skills,SEC-51T-104]
     d) All of the above (उपरोक्त सभी)  
     **Answer / उत्तर:** d) All of the above (उपरोक्त सभी)**
 
+76. **Which type of communication is used when a manager sends an urgent update through a company-wide SMS alert?**  
+     **जब एक प्रबंधक कंपनी-व्यापी SMS अलर्ट के माध्यम से तत्काल सूचना भेजता है, तो यह किस प्रकार का संचार होता है?**  
+     a) Oral communication (मौखिक संचार)  
+     b) Written communication (लिखित संचार)  
+     c) Electronic communication (इलेक्ट्रॉनिक संचार)  
+     d) Non-verbal communication (गैर-मौखिक संचार)  
+     **Answer / उत्तर:** c) Electronic communication (इलेक्ट्रॉनिक संचार)
 
 77. **Listening that goes beyond what's said is deep listening.**  
     **जो सुनने से परे जाकर समझता है वह गहरा सुनना है।**  
@@ -848,7 +855,7 @@ tags: [business skills,SEC-51T-104]
      **Answer / उत्तर:** c) Verbal and non-verbal communication (मौखिक और गैर-मौखिक)  
      
 
-41. **The response given by the receiver to the sender’s message is called ________**  
+101. **The response given by the receiver to the sender’s message is called ________**  
     **प्राप्तकर्ता द्वारा प्रेषक के संदेश को दिए गए जवाब को क्या कहते हैं?**  
     a) Encoding (एन्कोडिंग)  
     b) Decoding (डीकोडिंग)  
@@ -857,7 +864,7 @@ tags: [business skills,SEC-51T-104]
     **Answer / उत्तर:** c) Feedback (प्रतिक्रिया)  
     
 
-42. **Which part of a letter gives it legal validity?**  
+102. **Which part of a letter gives it legal validity?**  
     **पत्र के किस भाग से उसे कानूनी मान्यता मिलती है?**  
     a) Subject line (विषय पंक्ति)  
     b) Signature (हस्ताक्षर)  
@@ -866,7 +873,7 @@ tags: [business skills,SEC-51T-104]
     **Answer / उत्तर:** b) Signature (हस्ताक्षर)  
     
 
-43. **Notices and circulars are examples of _________ communication.**  
+103. **Notices and circulars are examples of _________ communication.**  
     **नोटिस और परिपत्र किस प्रकार के संचार के उदाहरण हैं?**  
     a) Upward (ऊर्ध्वगामी)  
     b) Downward (अधोगामी)  
@@ -875,7 +882,7 @@ tags: [business skills,SEC-51T-104]
     **Answer / उत्तर:** b) Downward (अधोगामी)  
     
 
-44. **Which of the following is a form of non-verbal communication?**  
+104. **Which of the following is a form of non-verbal communication?**  
     **निम्न में से कौन-सा गैर-मौखिक संचार का रूप है?**  
     a) Letter (पत्र)  
     b) Circular (परिपत्र)  
@@ -884,7 +891,7 @@ tags: [business skills,SEC-51T-104]
     **Answer / उत्तर:** d) Facial expressions (चेहरे के हाव-भाव)  
     
 
-45. **Which communication channel is considered the most informal?**  
+105. **Which communication channel is considered the most informal?**  
     **कौन-सा संचार माध्यम सबसे अनौपचारिक माना जाता है?**  
     a) Written communication (लिखित संचार)  
     b) Verbal communication (मौखिक संचार)  
@@ -893,7 +900,7 @@ tags: [business skills,SEC-51T-104]
     **Answer / उत्तर:** d) Grapevine communication (अफवाह संचार)  
     
 
-46. **Which element is NOT part of the communication cycle?**  
+106. **Which element is NOT part of the communication cycle?**  
     **संचार चक्र का हिस्सा कौन-सा तत्व नहीं है?**  
     a) Source (स्रोत)  
     b) Message (संदेश)  
@@ -902,7 +909,7 @@ tags: [business skills,SEC-51T-104]
     **Answer / उत्तर:** c) Cognition (संज्ञान)  
     
 
-47. **Which statement about communication is incorrect?**  
+107. **Which statement about communication is incorrect?**  
     **संचार के बारे में कौन-सा कथन गलत है?**  
     a) It is a process to establish mutual relationship (यह एक पारस्परिक संबंध स्थापित करने की प्रक्रिया है)  
     b) It is a static process (यह एक स्थिर प्रक्रिया है)  
@@ -911,7 +918,7 @@ tags: [business skills,SEC-51T-104]
     **Answer / उत्तर:** b) It is a static process (यह एक स्थिर प्रक्रिया है)  
     
 
-48. **Letters which are used to persuade readers to take a particular action are called ________.**  
+108. **Letters which are used to persuade readers to take a particular action are called ________.**  
     **वे पत्र जो पाठकों को किसी विशेष कार्य के लिए प्रेरित करने हेतु लिखे जाते हैं, उन्हें क्या कहते हैं?**  
     a) Inquiry letters (पूछ-विचार पत्र)  
     b) Bad news letters (खराब समाचार पत्र)  
@@ -920,7 +927,7 @@ tags: [business skills,SEC-51T-104]
     **Answer / उत्तर:** c) Persuasive / Sales letters (प्रेरक / बिक्री पत्र)  
     
 
-49. **Which communication includes Sender and Receiver being the same person?**  
+109. **Which communication includes Sender and Receiver being the same person?**  
     **कौन-सा संचार है जिसमें प्रेषक और प्राप्तकर्ता वही व्यक्ति होता है?**  
     a) Interpersonal communication (अंतर-व्यक्तिगत संचार)  
     b) Intrapersonal communication (आंतरिक-व्यक्तिगत संचार)  
@@ -929,7 +936,7 @@ tags: [business skills,SEC-51T-104]
     **Answer / उत्तर:** b) Intrapersonal communication (आंतरिक-व्यक्तिगत संचार)  
     
 
-50. **Which internal body cue is included in non-verbal communication?**  
+110. **Which internal body cue is included in non-verbal communication?**  
     **गैर-मौखिक संचार में कौन-सा आंतरिक शरीर संकेत शामिल होता है?**  
     a) Eye contact and posture (आंखों का संपर्क और मुद्रा)  
     b) Touch and voice (स्पर्श और आवाज़)  
