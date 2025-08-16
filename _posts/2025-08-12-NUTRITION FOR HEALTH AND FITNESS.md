@@ -7,6 +7,8 @@ description: NUTRITION FOR HEALTH AND FITNESS
 layout: post
 tags: VAC-52T-104
 ---
+## SYLLABUS
+![Business Communication Skills UG semester 2 Syllabus]()
 
 ## NUTRITION FOR HEALTH AND FITNESS – 2nd Semester
 
