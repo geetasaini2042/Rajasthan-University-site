@@ -8,7 +8,7 @@ layout: post
 tags: VAC-52T-104
 ---
 ## SYLLABUS
-![Business Communication Skills UG semester 2 Syllabus]()
+![Business Communication Skills UG semester 2 Syllabus](https://sainipankaj12.serv00.net/TelegramStream.php?file_id=AgACAgUAAyEGAASQTtqMAAJSMGigLmaF2NuaBp2OMiwz6Uz-qZn0AAKT1zEbQJoBVaHPC0HPJ563AAgBAAMCAAN5AAceBA&file_type=photo)
 
 ## NUTRITION FOR HEALTH AND FITNESS – 2nd Semester
 
