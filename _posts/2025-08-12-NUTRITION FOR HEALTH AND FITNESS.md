@@ -1,6 +1,6 @@
 ---
 title: NUTRITION FOR HEALTH AND FITNESS - SEMESTER 2
-semesters: [Semester 2]
+semesters: [Semester 1, Semester 2]
 courses: [BSC,BA,BCOM,BBA,BCA]
 subjects: [NUTRITION FOR HEALTH AND FITNESS]
 description: NUTRITION FOR HEALTH AND FITNESS
