@@ -7,5 +7,6 @@ description: Previous Year Papers, Important Questions, Syllabus and more study 
 layout: post
 tags: [physics, ]
 ---
-
-hello everyone 
+## SYLLABUS
+**Physics Law and frame of Reference** 
+  (a) Inertial and Non_inerial  frames, coordinate teansformation: teansformation of displacement, velocity, acceleration between 
