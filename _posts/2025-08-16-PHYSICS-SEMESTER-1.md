@@ -26,8 +26,9 @@ tags: [physics, ]
 ## STUDY MATERIAL (NOTES)
 
 **ENGLISH MEDIUM**
+
 | SOURCE   | CONTENT | Download |
 |----------|---------|----------|
-| I-STUDY| ALL UNITS | [DOWNLOAD](https://assets.edumate.life/dl/id/1590/Phy)|
+| I-STUDY | ALL UNITS | [DOWNLOAD](https://assets.edumate.life/dl/id/1590/Phy)|
 
 
