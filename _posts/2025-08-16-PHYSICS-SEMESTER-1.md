@@ -8,5 +8,4 @@ layout: post
 tags: [physics, ]
 ---
 ## SYLLABUS
-**Physics Law and frame of Reference** 
-  (a) Inertial and Non_inerial  frames, coordinate teansformation: teansformation of displacement, velocity, acceleration between 
+![PHYSICS SEMESTER 2 SYLLABUS](https://assets.edumate.life/dl/id/144/photo_1755587202.jpg)
