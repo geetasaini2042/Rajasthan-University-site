@@ -43,6 +43,7 @@ tags: [physics, ]
 |[TELEGRAM BOT](https://t.me/Rajasthan_UniversityBot) | Hindi Medium | [DOWNLOAD](https://assets.edumate.life/dl/id/168/B.Sc._2-sem_physics_pratical_Hindi_medium_.pdf)|
 
 **ENGLISH MEDIUM**
+
 | SOURCE   | CONTENT | Download |
 |----------|---------|----------|
 |[TELEGRAM BOT](https://t.me/Rajasthan_UniversityBot) | English Medium | [DOWNLOAD](https://assets.edumate.life/dl/id/170/physics_record_semester-2.pdf)|
