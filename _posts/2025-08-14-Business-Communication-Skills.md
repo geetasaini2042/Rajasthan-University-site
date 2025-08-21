@@ -169,17 +169,7 @@ tags: [business skills,SEC-51T-104]
     c) Family discussion (परिवार में चर्चा)  
     d) Market bargaining (बाज़ार में मोलभाव)  
     **Answer / उत्तर:** a) Office meeting (कार्यालय बैठक)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6225893138851886"
-     data-ad-slot="1023470228"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 19. **Which is an example of horizontal communication?**  
     **क्षैतिज संचार का उदाहरण कौन-सा है?**  
     a) Teacher to student (शिक्षक से छात्र)  
@@ -347,17 +337,7 @@ tags: [business skills,SEC-51T-104]
     c) Non-verbal communication (गैर-मौखिक संचार)  
     d) Electronic communication (इलेक्ट्रॉनिक संचार)  
     **Answer / उत्तर:** a) Oral communication (मौखिक संचार)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6225893138851886"
-     data-ad-slot="1023470228"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 40. What is the main role of social media in business communication?  
     व्यावसायिक संचार में सोशल मीडिया की मुख्य भूमिका क्या है?  
     a) To promote products and services (उत्पाद और सेवाओं को बढ़ावा देना)  
@@ -410,18 +390,7 @@ tags: [business skills,SEC-51T-104]
     c) Non-verbal communication (गैर-मौखिक संचार)  
     d) Grapevine communication (अफवाह संचार)  
     **Answer / उत्तर:** d) Grapevine communication (अफवाह संचार)  
-    
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6225893138851886"
-     data-ad-slot="1023470228"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 46. **Which element is NOT part of the communication cycle?**  
     **संचार चक्र का हिस्सा कौन-सा तत्व नहीं है?**  
     a) Source (स्रोत)  
@@ -465,17 +434,7 @@ tags: [business skills,SEC-51T-104]
     c) Electronic Data Passing (इलेक्ट्रॉनिक डेटा पासिंग)  
     d) Electronic Data Patroning (इलेक्ट्रॉनिक डेटा संरक्षक)  
     **Answer / उत्तर:** b) Electronic Data Processing (इलेक्ट्रॉनिक डेटा प्रोसेसिंग)  
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6225893138851886"
-     data-ad-slot="1023470228"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 51. **What does EDP stand for in business communication?**  
     **व्यवसायिक संचार में EDP का पूरा रूप क्या है?**  
     a) Entrepreneurial Development Programme (उद्यमशील विकास कार्यक्रम)  
@@ -537,17 +496,6 @@ tags: [business skills,SEC-51T-104]
     c) Visual communication (दृश्य संचार)  
     d) Written communication (लिखित संचार)  
     **Answer / उत्तर:** b) Non-verbal communication (गैर-मौखिक संचार)**  
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6225893138851886"
-     data-ad-slot="1023470228"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 58. **Where does the salutation begin in a business letter?**  
     **व्यावसायिक पत्र में अभिवादन (सल्यूटेशन) कहाँ से शुरू होता है?**  
@@ -788,17 +736,7 @@ tags: [business skills,SEC-51T-104]
     c) Attention grabbers (ध्यानाकर्षक तत्व)  
     d) None of these (इनमें से कोई नहीं)  
     **Answer / उत्तर:** c) Attention grabbers (ध्यानाकर्षक तत्व)  
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6225893138851886"
-     data-ad-slot="1023470228"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>    
+
 
 86. **Downward and upward communication are forms of vertical communication.**  
     **अधोगामी और ऊर्ध्वगामी संचार, लंबवत (Vertical) संचार के रूप हैं।**  
@@ -925,17 +863,6 @@ tags: [business skills,SEC-51T-104]
     d) Seven (सात)  
     **Answer / उत्तर:** b) Five (पाँच)  
     
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6225893138851886"
-     data-ad-slot="1023470228"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 100. **Verbal and non-verbal communication are the two broad areas of communication.**  
      **मौखिक और गैर-मौखिक संचार संचार के दो मुख्य विस्तृत क्षेत्र हैं।**  
@@ -1034,14 +961,3 @@ tags: [business skills,SEC-51T-104]
     c) None of the above (उपरोक्त में से कोई नहीं)  
     d) Both a and b (दोनों a और b)  
     **Answer / उत्तर:** d) Both a and b (दोनों a और b)  
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6225893138851886"
-     data-ad-slot="1023470228"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>    
