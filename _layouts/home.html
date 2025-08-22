@@ -65,7 +65,6 @@ refactor: true
           {% endunless %}
 
           {% assign alt = post.image.alt | xml_escape | default: 'Preview Image' %}
-
           {% assign lqip = null %}
 
           {% if post.image.lqip %}
@@ -112,12 +111,25 @@ refactor: true
                 </div>
               {% endif %}
             </div>
-            <!-- .post-meta -->
           </div>
-          <!-- .card-body -->
         </div>
       </a>
     </article>
+
+    {% if forloop.index % 3 == 0 %}
+      <!-- AdSense Block -->
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
+          crossorigin="anonymous"></script>
+      <ins class="adsbygoogle"
+          style="display:block"
+          data-ad-format="fluid"
+          data-ad-layout-key="-gw-3+1f-3d+2z"
+          data-ad-client="ca-pub-6225893138851886"
+          data-ad-slot="2162960375"></ins>
+      <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    {% endif %}
   {% endfor %}
 </div>
 <!-- #post-list -->
