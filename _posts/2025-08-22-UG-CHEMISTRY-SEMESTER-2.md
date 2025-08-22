@@ -16,33 +16,31 @@ tags: [CHE-52T-103]
 
 |UNITS|DOWNLOAD|
 |-----|--------|
-|UNIT 4| [DOWNLOAD](https://assets.edumate.life/dl/id/178/UNIT_4.PDF)|
+|UNIT 4|[DOWNLOAD](https://assets.edumate.life/dl/id/178/UNIT_4.PDF)|
 
 ## PREVIOUS YEAR PAPERS 
-**MID SEMESTER EXAM**
-
-| Year     | College | Download |
-|----------|---------|----------|
-|2024-25 | MAHARAJAS COLLEGE JAIPUR | [DOWNLOAD HERE](https://assets.edumate.life/dl/id/160/photo_1755779657.jpg)|
 
 **MAIN SEMESTER EXAM**
 
 | Year     | College | Download |
 |----------|---------|----------|
-|2023-24 | REGULAR | [DOWNLOAD HERE](https://assets.edumate.life/dl/id/162/Physics-sem-2-2023-24.pdf)|
-|2024-25 | REGULAR |[DOWNLOAD HERE](https://assets.edumate.life/dl/id/164/PHYSICS_SEM_2_2024-25.pdf)|
+|2023-24 | REGULAR | [DOWNLOAD](https://t.me/Rajasthan_UniversityBot)|
+
 
 ## STUDY MATERIAL (NOTES)
 
 **ENGLISH MEDIUM**
+|||
+**HINDI MEDIUM**
 
 | SOURCE   | CONTENT | Download |
 |----------|---------|----------|
-| telegram  | ALL UNITS | DOWNLOAD |
+| Telegram  | ALL UNITS | [DOWNLOAD](https://t.me/Rajasthan_UniversityBot) |
+|https://t.me/Rajasthan_UniversityBot| UNIT 4|[DOWNLOAD](https://assets.edumate.life/dl/id/180/Chemical_kinetics.pdf)|
 
 ## PRACTICAL EXAM
 **SYLLABUS**
-![PRACTICAL SYLLABUS](https://assets.edumate.life/dl/id/166/photo_1755779928.jpg)
+![PRACTICAL SYLLABUS]()
 
 **HINDI MEDIUM**
 
