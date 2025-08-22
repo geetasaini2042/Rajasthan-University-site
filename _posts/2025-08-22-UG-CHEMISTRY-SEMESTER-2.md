@@ -10,6 +10,14 @@ tags: [CHE-52T-103]
 ## SYLLABUS
 ![PHYSICS SEMESTER 2 SYLLABUS](https://assets.edumate.life/dl/id/158/photo_1755779499.jpg)
 
+
+## BOOK
+**HINDI MEDIUM**
+
+|UNITS|DOWNLOAD|
+|-----|--------|
+|UNIT 4| [DOWNLOAD](https://assets.edumate.life/dl/id/178/UNIT_4.PDF)|
+
 ## PREVIOUS YEAR PAPERS 
 **MID SEMESTER EXAM**
 
