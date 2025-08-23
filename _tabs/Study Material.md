@@ -10,25 +10,72 @@ The interface is simple and easy to navigate — you can browse by course, subje
 
 It is important to note that while the portal is tailored for Rajasthan University students, it is not an official university website. It has been built to complement the official syllabus and aid self-study. Bookmark this page for quick access and stay ahead in your studies!
 
+
+
+---
+layout: page
+title: All Subjects
 ---
 
-## 📚 Study Material – Subject Wise
-- [English](https://uor.edumate.life/subjects/english)
-- [Hindi](https://uor.edumate.life/subjects/hindi)
-- [History](https://uor.edumate.life/subjects/history)
-- [NUTRITION FOR HEALTH AND FITNESS](https://uor.edumate.life/subjects/NUTRITION-FOR-HEALTH-AND-FITNESS)
-- [Political Science](https://uor.edumate.life/subjects/political-science)
-- [Geography](https://uor.edumate.life/subjects/geography)
-- [Sociology](https://uor.edumate.life/subjects/sociology)
-- [Psychology](https://uor.edumate.life/subjects/psychology)
-- [Economics](https://uor.edumate.life/subjects/economics)
-- [Physics](https://uor.edumate.life/subjects/physics)
-- [Chemistry](https://uor.edumate.life/subjects/chemistry)
-- [Mathematics](https://uor.edumate.life/subjects/mathematics)
-- [Botany](https://uor.edumate.life/subjects/botany)
-- [Zoology](https://uor.edumate.life/subjects/zoology)
-- [Computer Science](https://uor.edumate.life/subjects/computer-science)
+<section class="subjects-section container my-5">
+  <h1 class="mb-3 text-center">Explore All Subjects</h1>
+  <p class="text-center text-muted mb-4">
+    Choose from the subjects below to find related study material and posts curated just for you.
+  </p>
 
+  <div id="subjects" class="row g-4 justify-content-center">
+    {% assign subjects = '' | split: '' %}
+
+    {% for post in site.posts %}
+      {% for s in post.subjects %}
+        {% unless subjects contains s %}
+          {% assign subjects = subjects | push: s %}
+        {% endunless %}
+      {% endfor %}
+    {% endfor %}
+
+    {% assign sorted_subjects = subjects | sort_natural %}
+
+    {% for s in sorted_subjects %}
+      <div class="col-12 col-md-4 d-flex justify-content-center">
+        <a 
+          href="{{ s | slugify | url_encode | prepend: '/subjects/' | append: '/' | relative_url }}" 
+          class="btn btn-outline-primary position-relative px-4 py-2 w-100"
+          style="max-width: 250px; border-radius: 0.5rem;"
+          title="View all posts for {{ s }}"
+        >
+          {{ s }}
+          <span 
+            class="badge bg-primary rounded-pill position-absolute top-0 start-100 translate-middle"
+            style="font-size: 0.75rem;"
+            aria-label="Number of posts in {{ s }}"
+          >
+            {{ site.posts | where_exp: "item", "item.subjects contains s" | size }}
+          </span>
+        </a>
+      </div>
+
+      {% comment %}
+      हर 3 subjects के बाद AdSense दिखाएँ
+      {% endcomment %}
+      {% if forloop.index0 != 0 and forloop.index0 % 3 == 0 %}
+        <div class="col-12 text-center my-3">
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
+               crossorigin="anonymous"></script>
+          <ins class="adsbygoogle"
+               style="display:block"
+               data-ad-format="fluid"
+               data-ad-layout-key="-fb+5w+4e-db+86"
+               data-ad-client="ca-pub-6225893138851886"
+               data-ad-slot="4358395798"></ins>
+          <script>
+               (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
 ---
 
 ## 🎓 Study Material – Semester Wise
