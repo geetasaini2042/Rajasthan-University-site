@@ -7,7 +7,7 @@ description: Rajasthan University All Subjects Syllabus
 layout: post
 tags: [all subjects syllabus, syllabus]
 pin: true
-permalink : /syllabus
+permalink : /Syllabus
 ---
   <style>
     * {
