@@ -24,7 +24,7 @@ tags: [CHE-52T-103]
 
 | Year     | College | Download |
 |----------|---------|----------|
-|2023-24 | REGULAR | [DOWNLOAD](https://t.me/Rajasthan_UniversityBot)|
+|2023-24 | REGULAR | [DOWNLOAD](https://assets.edumate.life/dl/id/188/Che-sem-2-2023-24.pdf)|
 
 
 ## STUDY MATERIAL (NOTES)
@@ -36,11 +36,11 @@ tags: [CHE-52T-103]
 | SOURCE   | CONTENT | Download |
 |----------|---------|----------|
 | Telegram  | ALL UNITS | [DOWNLOAD](https://t.me/Rajasthan_UniversityBot) |
-|https://t.me/Rajasthan_UniversityBot| UNIT 4|[DOWNLOAD](https://assets.edumate.life/dl/id/180/Chemical_kinetics.pdf)|
+|| UNIT 4|[DOWNLOAD](https://assets.edumate.life/dl/id/180/Chemical_kinetics.pdf)|
 
 ## PRACTICAL EXAM
 **SYLLABUS**
-![PRACTICAL SYLLABUS]()
+![PRACTICAL SYLLABUS](https://assets.edumate.life/dl/id/186/photo_1755927023.jpg)
 
 **HINDI MEDIUM**
 
