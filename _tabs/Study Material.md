@@ -65,12 +65,11 @@ Choose from the subjects below to find related study material and posts curated 
       {% endif %}
     {% endfor %}
   </div>
-</section>
+
 ---
 
 ## SEMESTER WISE NOTES
 
-Choose from the semesters below to find related study material and posts curated just for you.
 
 
   <div id="semesters" class="row g-4 justify-content-center">
@@ -105,7 +104,6 @@ Choose from the semesters below to find related study material and posts curated
       </div>
     {% endfor %}
   </div>
-</section>
 
 <!-- ✅ Ad Section with proper gap -->
 <div class="ad-container text-center">
@@ -134,6 +132,7 @@ Choose from the semesters below to find related study material and posts curated
   margin-bottom: 40px; /* Gap below ad */
 }
 </style>
+
 ---
 
 ## COURSE WISE NOTES
@@ -174,7 +173,7 @@ Choose from the courses below to find related study material and posts curated j
       </div>
     {% endfor %}
   </div>
-</section>
+
 
 <div class="my-5"></div> 
 
