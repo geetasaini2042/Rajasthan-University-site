@@ -32,11 +32,11 @@ tags: [CHE-52T-103]
 **ENGLISH MEDIUM**
 |||
 **HINDI MEDIUM**
-
-| SOURCE   | CONTENT | Download |
-|----------|---------|----------|
-| Telegram  | ALL UNITS | [DOWNLOAD](https://t.me/Rajasthan_UniversityBot) |
-|| UNIT 4|[DOWNLOAD](https://assets.edumate.life/dl/id/180/Chemical_kinetics.pdf)|
+👉 __UNITWISE__
+   - UNIT 1 - [DOWNLOAD](https://assets.edumate.life/dl/a-id/a68a95302921409.48501932)
+   - UNIT 2 - [DOWNLOAD](https://assets.edumate.life/dl/a-id/a68a954b26591f5.80832290)
+   - UNIT 3 - [DOWNLOAD](https://assets.edumate.life/dl/a-id/a68a9551a9715d4.23180698)
+   - UNIT 4 - [DOWNLOAD](https://assets.edumate.life/dl/id/180/Chemical_kinetics.pdf)
 
 ## PRACTICAL EXAM
 **SYLLABUS**
