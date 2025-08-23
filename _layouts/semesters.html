@@ -26,8 +26,7 @@ title: All Semesters
       <div class="col-12 col-md-4 d-flex justify-content-center">
         <a 
           href="{{ sem | slugify | url_encode | prepend: '/semesters/' | append: '/' | relative_url }}" 
-          class="btn btn-outline-primary position-relative px-4 py-2 w-100"
-          style="max-width: 250px; border-radius: 0.5rem;"
+          class="btn btn-outline-primary position-relative px-4 py-2 w-100 semester-btn"
           title="View all posts for {{ sem }}"
         >
           {{ sem }}
@@ -44,17 +43,30 @@ title: All Semesters
   </div>
 </section>
 
-<div class="my-5"></div> 
+<!-- ✅ Ad Section with proper gap -->
+<div class="ad-container text-center">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
+       crossorigin="anonymous"></script>
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-6225893138851886"
+       data-ad-slot="1023470228"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
 
+<!-- ✅ Custom CSS for spacing -->
+<style>
+.semester-btn {
+  max-width: 250px;
+  border-radius: 0.5rem;
+}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6225893138851886"
-     data-ad-slot="1023470228"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+.ad-container {
+  margin-top: 60px;  /* Gap above ad */
+  margin-bottom: 40px; /* Gap below ad */
+}
+</style>
