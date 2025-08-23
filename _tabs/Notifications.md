@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-bell
-order: 3
+order: 4
 ---
 
 # Notifications
@@ -11,8 +11,8 @@ Stay updated with the latest study materials, announcements, and important notif
 **Subscribe to our channels to never miss an update:**
 
 - **Telegram:**  
-  Join our official Telegram Bot for instant updates and resources:  
-  [https://t.me/Rajasthan_UniversityBot](https://t.me/Rajasthan_UniversityBot)
+  Join our official Telegram Channel for instant updates and resources:  
+  [https://t.me/RAJASTHAN_UNIVERSITY2](https://t.me/RAJASTHAN_UNIVERSITY2)
 
 - **WhatsApp:**  
   Join our WhatsApp Channel for quick notifications and study tips:  
