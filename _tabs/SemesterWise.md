@@ -1,5 +1,5 @@
 ---
 layout: semesters
 icon: fa fa-caret-right
-order: 6
+order: 7
 ---
