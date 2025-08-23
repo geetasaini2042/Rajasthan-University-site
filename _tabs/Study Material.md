@@ -8,20 +8,10 @@ The Rajasthan University Notes Portal is a dedicated platform created to provide
 
 The interface is simple and easy to navigate — you can browse by course, subject, or semester. Our goal is to ensure that students spend less time searching for resources and more time studying. By regularly updating our database with new content, we help students stay prepared and confident for their exams.
 
-It is important to note that while the portal is tailored for Rajasthan University students, it is not an official university website. It has been built to complement the official syllabus and aid self-study. Bookmark this page for quick access and stay ahead in your studies!
+## SUBJECT WISE NOTES
 
-
-
----
-layout: page
-title: All Subjects
----
-
-<section class="subjects-section container my-5">
-  <h1 class="mb-3 text-center">Explore All Subjects</h1>
-  <p class="text-center text-muted mb-4">
-    Choose from the subjects below to find related study material and posts curated just for you.
-  </p>
+Choose from the subjects below to find related study material and posts curated just for you.
+  
 
   <div id="subjects" class="row g-4 justify-content-center">
     {% assign subjects = '' | split: '' %}
@@ -78,21 +68,129 @@ title: All Subjects
 </section>
 ---
 
-## 🎓 Study Material – Semester Wise
-- [Semester 1](https://uor.edumate.life/semesters/semester-1)
-- [Semester 2](https://uor.edumate.life/semesters/semester-2)
-- [Semester 3](https://uor.edumate.life/semesters/semester-3)
-- [Semester 4](https://uor.edumate.life/semesters/semester-4)
-- [Semester 5](https://uor.edumate.life/semesters/semester-5)
-- [Semester 6](https://uor.edumate.life/semesters/semester-6)
+## SEMESTER WISE NOTES
 
+Choose from the semesters below to find related study material and posts curated just for you.
+
+
+  <div id="semesters" class="row g-4 justify-content-center">
+    {% assign semesters = '' | split: '' %}
+
+    {% for post in site.posts %}
+      {% for sem in post.semesters %}
+        {% unless semesters contains sem %}
+          {% assign semesters = semesters | push: sem %}
+        {% endunless %}
+      {% endfor %}
+    {% endfor %}
+
+    {% assign sorted_semesters = semesters | sort_natural %}
+
+    {% for sem in sorted_semesters %}
+      <div class="col-12 col-md-4 d-flex justify-content-center">
+        <a 
+          href="{{ sem | slugify | url_encode | prepend: '/semesters/' | append: '/' | relative_url }}" 
+          class="btn btn-outline-primary position-relative px-4 py-2 w-100 semester-btn"
+          title="View all posts for {{ sem }}"
+        >
+          {{ sem }}
+          <span 
+            class="badge bg-primary rounded-pill position-absolute top-0 start-100 translate-middle"
+            style="font-size: 0.75rem;"
+            aria-label="Number of posts in {{ sem }}"
+          >
+            {{ site.posts | where_exp: "item", "item.semesters contains sem" | size }}
+          </span>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+<!-- ✅ Ad Section with proper gap -->
+<div class="ad-container text-center">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
+       crossorigin="anonymous"></script>
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-6225893138851886"
+       data-ad-slot="1023470228"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+
+<!-- ✅ Custom CSS for spacing -->
+<style>
+.semester-btn {
+  max-width: 250px;
+  border-radius: 0.5rem;
+}
+
+.ad-container {
+  margin-top: 60px;  /* Gap above ad */
+  margin-bottom: 40px; /* Gap below ad */
+}
+</style>
 ---
 
-## 📖 Study Material – Course Wise
-- [B.Sc Notes](https://uor.edumate.life/courses/BSC)
-- [B.A Notes](https://uor.edumate.life/courses/BA)
-- [B.Com Notes](https://uor.edumate.life/courses/BCOM)
-- [M.A Notes](https://uor.edumate.life/courses/MA)
+## COURSE WISE NOTES
+
+Choose from the courses below to find related study material and posts curated just for you.
+
+
+  <div id="courses" class="row g-4 justify-content-center">
+    {% assign courses = '' | split: '' %}
+
+    {% for post in site.posts %}
+      {% for c in post.courses %}
+        {% unless courses contains c %}
+          {% assign courses = courses | push: c %}
+        {% endunless %}
+      {% endfor %}
+    {% endfor %}
+
+    {% assign sorted_courses = courses | sort_natural %}
+
+    {% for c in sorted_courses %}
+      <div class="col-12 col-md-4 d-flex justify-content-center">
+        <a 
+          href="{{ c | slugify | url_encode | prepend: '/courses/' | append: '/' | relative_url }}" 
+          class="btn btn-outline-primary position-relative px-4 py-2 w-100"
+          style="max-width: 250px; border-radius: 0.5rem;"
+          title="View all posts for {{ c }}"
+        >
+          {{ c }}
+          <span 
+            class="badge bg-primary rounded-pill position-absolute top-0 start-100 translate-middle"
+            style="font-size: 0.75rem;"
+            aria-label="Number of posts in {{ c }}"
+          >
+            {{ site.posts | where_exp: "item", "item.courses contains c" | size }}
+          </span>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+<div class="my-5"></div> 
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center; margin: 30px 0;" 
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6225893138851886"
+     data-ad-slot="1023470228"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
