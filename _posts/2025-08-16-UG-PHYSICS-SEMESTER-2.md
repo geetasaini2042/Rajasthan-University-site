@@ -1,7 +1,7 @@
 ---
 title: PHYSICS SEMESTER 2
 courses: [BSC]
-semesters: [Semester 2]
+semesters: [SEMESTER 2]
 subjects: [PHYSICS]
 description: Previous Year Papers, Important Questions, Syllabus and more study materials
 layout: post
