@@ -1,12 +1,12 @@
 ---
 title: PHYSICS SEMESTER 4
 courses: [BSC]
-semesters: [Semester 4]
+semesters: [SEMESTER 4]
 subjects: [PHYSICS]
-description: Previous Year Papers, Important Questions, Syllabus and more study materials
+description: PRACTICAL EXAM FILE AND SYLLABUS 
 layout: post
 tags: []
-
+---
 
 ## PRACTICAL EXAM
 **SYLLABUS**
