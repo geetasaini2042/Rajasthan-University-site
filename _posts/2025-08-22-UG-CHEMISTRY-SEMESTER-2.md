@@ -50,7 +50,7 @@ tags: [CHE-52T-103]
    - UNIT 1 - [DOWNLOAD](https://drive.google.com/uc?id=1v3VfHt42D8QDIOjeXowIOKKKHQnYIu56&export=download)
    - UNIT 2 - [DOWNLOAD](https://assets.edumate.life/dl/id/198/unit_2_stereo_chemistry_of_organic_compound.pdf)
    - UNIT 3 - [DOWNLOAD](https://assets.edumate.life/dl/id/200/chemistry_sem_2_unit_3.pdf)
-   - UNIT 4 - [DOWNLOAD]()
+   - UNIT 4 - [DOWNLOAD](https://drive.google.com/uc?id=1DmSCsI8xiSe_X_lDeHNISwy2FVa0IOzH)
 
 ### MORE CONTENT ARE ON TELEGRAM BOT
  - [ENGLISH MEDIUM PARTH SERIES](https://t.me/Rajasthan_UniversityBot)
