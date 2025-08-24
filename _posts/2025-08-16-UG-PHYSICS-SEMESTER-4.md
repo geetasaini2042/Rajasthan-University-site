@@ -10,10 +10,10 @@ tags: []
 
 ## PRACTICAL EXAM
 **SYLLABUS**
-![PRACTICAL SYLLABUS](https://assets.edumate.life/dl/id/166/photo_1755779928.jpg)
+![PRACTICAL SYLLABUS](https://assets.edumate.life/dl/id/202/physics-semester-4-practical-syllabus.jpg)
 
 **HINDI MEDIUM**
 
 | SOURCE   | CONTENT | Download |
 |----------|---------|----------|
-|[TELEGRAM BOT](https://t.me/Rajasthan_UniversityBot) | Hindi Medium | [DOWNLOAD](https://assets.edumate.life/dl/id/168/B.Sc._2-sem_physics_pratical_Hindi_medium_.pdf)|
+|[TELEGRAM BOT](https://t.me/Rajasthan_UniversityBot) | Hindi Medium | [DOWNLOAD](https://drive.google.com/uc?id=1Rh142NdAe6btBylZ0Ok47zYo96y80Dyn&export=download)|
