@@ -1,7 +1,7 @@
 ---
 title: English UG Semester 1
 courses: [BSC,BA,BCOM, BBA, BCA]
-semesters: [Semester 1]
+semesters: [SEMESTER 1]
 subjects: [English]
 layout: post
 tags: [English,AEC-51T-103]
