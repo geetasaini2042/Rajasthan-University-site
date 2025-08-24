@@ -1,6 +1,7 @@
 ---
 icon: fa-solid fa-file
 order: 3
+description: UG All Courses Syllabus 2023-24
 ---
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
