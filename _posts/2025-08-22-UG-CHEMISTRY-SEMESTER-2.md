@@ -35,22 +35,22 @@ tags: [CHE-52T-103]
 
 #### UNITWISE  
 
-   - UNIT 1 - [DOWNLOAD](https://assets.edumate.life/dl/a-id/a68a95302921409.48501932)
-   - UNIT 2 - [DOWNLOAD](https://assets.edumate.life/dl/a-id/a68a954b26591f5.80832290)
-   - UNIT 3 - [DOWNLOAD](https://assets.edumate.life/dl/a-id/a68a9551a9715d4.23180698)
-   - UNIT 4 - [DOWNLOAD](https://assets.edumate.life/dl/id/180/Chemical_kinetics.pdf)
+   - UNIT 1 - [DOWNLOAD(25.91 MB)](https://drive.google.com/uc?id=1pWGQAZ79eekwuzFK1Hfmwin2lpb6ztm9&export=download)
+   - UNIT 2 - [DOWNLOAD(30.58 MB)](https://drive.google.com/uc?id=15iCQYGZp6wwZ67isE-r6xTROmqUyAWGU&export=download)
+   - UNIT 3 - [DOWNLOAD(23.15 MB)](https://drive.google.com/uc?id=1uRoMq0vfdhXmBvr1x2HXuAEU5nxtx9lR&export=download)
+   - UNIT 4 - [DOWNLOAD(12.22 MB)](https://assets.edumate.life/dl/id/180/Chemical_kinetics.pdf)
 
 #### ORGANIC CHEMISTRY 
-  - [DOWNLOAD](https://drive.google.com/uc?id=10zPJF361DAAzFQgmM7iVwnWM0yokDzL7&export=download)
+  - [DOWNLOAD(73.5 MB)](https://drive.google.com/uc?id=10zPJF361DAAzFQgmM7iVwnWM0yokDzL7&export=download)
 
 **ENGLISH MEDIUM**
 
 #### UNITWISE  
 
-   - UNIT 1 - [DOWNLOAD](https://assets.edumate.life/dl/a-id/a68a95302921409.48501932)
-   - UNIT 2 - [DOWNLOAD](https://assets.edumate.life/dl/a-id/a68a954b26591f5.80832290)
-   - UNIT 3 - [DOWNLOAD](https://assets.edumate.life/dl/a-id/a68a9551a9715d4.23180698)
-   - UNIT 4 - [DOWNLOAD](https://assets.edumate.life/dl/id/180/Chemical_kinetics.pdf)
+   - UNIT 1 - [DOWNLOAD](https://drive.google.com/uc?id=1v3VfHt42D8QDIOjeXowIOKKKHQnYIu56&export=download)
+   - UNIT 2 - [DOWNLOAD](https://assets.edumate.life/dl/id/198/unit_2_stereo_chemistry_of_organic_compound.pdf)
+   - UNIT 3 - [DOWNLOAD](https://assets.edumate.life/dl/id/200/chemistry_sem_2_unit_3.pdf)
+   - UNIT 4 - [DOWNLOAD]()
 
 ### MORE CONTENT ARE ON TELEGRAM BOT
  - [ENGLISH MEDIUM PARTH SERIES](https://t.me/Rajasthan_UniversityBot)
