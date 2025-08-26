@@ -14,4 +14,4 @@ tags: [PHYSICS,OPTICS,PHY-63T-201]
 
 ## DOWNLOAD BOOK
   - [HINDI MEDIUM](https://assets.edumate.life/dl/id/208/OPTISC_SEM_2_PHYSICS.pdf)
-  - ENGLISH MEDIUM(Comming Soon...)
+  - [ENGLISH MEDIUM](https://assets.edumate.life/dl/id/210/BSCPH-202.pdf)
