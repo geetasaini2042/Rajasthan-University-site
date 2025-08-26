@@ -12,4 +12,6 @@ tags: [PHYSICS,OPTICS,PHY-63T-201]
 ![PHYSICS SEMESTER 2 SYLLABUS](https://assets.edumate.life/dl/id/204/photo_1756208894.jpg)
 ![PHYSICS SEMESTER 2 SYLLABUS](https://assets.edumate.life/dl/id/206/photo_1756208895.jpg)
 
-STUDY MATERIALS FOR PHYSICS SEMESTER 3
+## DOWNLOAD BOOK
+  - [HINDI MEDIUM](https://assets.edumate.life/dl/id/208/OPTISC_SEM_2_PHYSICS.pdf)
+  - ENGLISH MEDIUM(Comming Soon...)
