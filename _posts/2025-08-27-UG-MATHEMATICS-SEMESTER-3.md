@@ -12,3 +12,12 @@ HELLO
 ## SYLLABUS
 ![MATHEMATICS SEMESTER 3 SYLLABUS ](https://assets.edumate.life/dl/id/212/photo_1756298698.jpg)
 
+## BOOKS
+
+  ### HINDI MEDIUM 
+  
+  - **REAL ANALYSIS & DIFFERENTIAL EQUATIONS**
+     > This book contains more content than your syllabus. Please check your syllabus carefully before reading.
+     - [LINK 1](https://web.archive.org/web/20250827131255/https://assets.edumate.life/dl/id/214/Real_ANALYSIC___DIFFERENTIALEQUATION.pdf)
+     - [LINK 2](https://assets.edumate.life/dl/id/214/Real_ANALYSIC___DIFFERENTIALEQUATION.pdf)
+      
