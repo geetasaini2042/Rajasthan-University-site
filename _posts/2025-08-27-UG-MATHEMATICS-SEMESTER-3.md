@@ -14,7 +14,7 @@ HELLO
 
 ## BOOKS
 
-### HINDI MEDIUM 
+- **HINDI MEDIUM**
   
   - **REAL ANALYSIS & DIFFERENTIAL EQUATIONS**
      > This book contains more content than your syllabus. Please check your syllabus carefully before reading.
