@@ -251,10 +251,7 @@ permalink: /education-pdfs/
     }
     document.getElementById("status").innerText = "⏳ कृपया प्रतीक्षा करें...";
     try {
-      const res = await fetch(params.url, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(params),
+      const res = await fetch(params.url),
       });
       if (res.ok) {
         document.getElementById("status").innerText = "✅ आपकी फ़ाइल Telegram पर भेज दी गई है!";
