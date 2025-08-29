@@ -1,0 +1,96 @@
+---
+layout: default
+title: Education PDFs
+permalink: /education-pdfs/
+---
+
+<div style="max-width:800px;margin:auto;padding:20px;font-family:sans-serif;">
+  <h1 style="text-align:center;">📚 Education Study Contents</h1>
+  <p style="text-align:center;color:gray;">नीचे दिए गए Study Ads देखें और फिर अपनी फ़ाइल प्राप्त करें</p>
+
+  <!-- पहला Ad -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
+       crossorigin="anonymous"></script>
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-6225893138851886"
+       data-ad-slot="2701058566"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+
+  <!-- दूसरा Ad -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
+       crossorigin="anonymous"></script>
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-6225893138851886"
+       data-ad-slot="8842158607"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+
+  <!-- तीसरा Ad -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6225893138851886"
+       crossorigin="anonymous"></script>
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-format="fluid"
+       data-ad-layout-key="-6t+ed+2i-1n-4w"
+       data-ad-client="ca-pub-6225893138851886"
+       data-ad-slot="4902913591"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+
+  <div style="text-align:center;margin-top:30px;">
+    <button onclick="sendFile()" style="background:#4CAF50;color:white;padding:15px 25px;font-size:18px;border:none;border-radius:10px;cursor:pointer;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+      📥 Get Your File
+    </button>
+    <p id="status" style="margin-top:15px;color:blue;font-weight:bold;"></p>
+  </div>
+</div>
+
+<script>
+  function getParams() {
+    const urlParams = new URLSearchParams(window.location.search);
+    return {
+      uuid: urlParams.get("uuid"),
+      user_id: urlParams.get("user_id"),
+      url: urlParams.get("url"),
+      file_name: urlParams.get("file_name"),
+      file_des: urlParams.get("file_des"),
+      file_size: urlParams.get("file_size"),
+    };
+  }
+
+  async function sendFile() {
+    const params = getParams();
+    if (!params.url) {
+      document.getElementById("status").innerText = "⚠️ फ़ाइल की जानकारी नहीं मिली!";
+      return;
+    }
+
+    document.getElementById("status").innerText = "⏳ कृपया प्रतीक्षा करें...";
+
+    try {
+      const res = await fetch(params.url, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(params),
+      });
+
+      if (res.ok) {
+        document.getElementById("status").innerText = "✅ आपकी फ़ाइल Telegram पर भेज दी गई है!";
+      } else {
+        document.getElementById("status").innerText = "❌ फ़ाइल भेजने में समस्या आई!";
+      }
+    } catch (e) {
+      document.getElementById("status").innerText = "❌ कनेक्शन त्रुटि!";
+    }
+  }
+</script>
