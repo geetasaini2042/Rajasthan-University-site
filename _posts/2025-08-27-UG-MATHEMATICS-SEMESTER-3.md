@@ -22,4 +22,4 @@ HELLO
      - ***DIFFERENTIAL EQUATIONS*** => [LINK 1](https://assets.edumate.life/dl/id/216/MT05.pdf)  [LINK 2](https://web.archive.org/web/20220130213158if_/http://assets.vmou.ac.in/MT05.pdf)
       
 - **ENGLISH MEDIUM**
-    - [***DIFFERENTIAL EQUATIONS***](https://web.archive.org/web/20241107105931if_/https://www.mdu.ac.in/UpFiles/UpPdfFiles/2020/Jan/DIFFERENTIAL EQUATIONS.pdf)
+    - [***DIFFERENTIAL EQUATIONS***](https://web.archive.org/web/20241107105931if_/https://www.mdu.ac.in/UpFiles/UpPdfFiles/2020/Jan/DIFFERENTIAL%20EQUATIONS.pdf)
