@@ -18,6 +18,8 @@ HELLO
   
   - **REAL ANALYSIS & DIFFERENTIAL EQUATIONS**
      > This book contains more content than your syllabus. Please check your syllabus carefully before reading.
-     - REAL ANALYSIS => [LINK 1](https://web.archive.org/web/20250827131255if_/https://assets.edumate.life/dl/id/214/Real_ANALYSIC___DIFFERENTIALEQUATION.pdf)    [LINK 2](https://assets.edumate.life/dl/id/214/Real_ANALYSIC___DIFFERENTIALEQUATION.pdf)
-     - DIFFERENTIAL EQUATIONS => [LINK 1](https://assets.edumate.life/dl/id/216/MT05.pdf)  [LINK 2](https://web.archive.org/web/20220130213158if_/http://assets.vmou.ac.in/MT05.pdf)
+     - ***REAL ANALYSIS*** => [LINK 1](https://web.archive.org/web/20250827131255if_/https://assets.edumate.life/dl/id/214/Real_ANALYSIC___DIFFERENTIALEQUATION.pdf)    [LINK 2](https://assets.edumate.life/dl/id/214/Real_ANALYSIC___DIFFERENTIALEQUATION.pdf)
+     - ***DIFFERENTIAL EQUATIONS*** => [LINK 1](https://assets.edumate.life/dl/id/216/MT05.pdf)  [LINK 2](https://web.archive.org/web/20220130213158if_/http://assets.vmou.ac.in/MT05.pdf)
       
+- **ENGLISH MEDIUM**
+    - [***DIFFERENTIAL EQUATIONS***](https://web.archive.org/web/20241107105931if_/https://www.mdu.ac.in/UpFiles/UpPdfFiles/2020/Jan/DIFFERENTIAL EQUATIONS.pdf)
