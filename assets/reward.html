@@ -251,8 +251,18 @@ permalink: /education-pdfs/
     }
     document.getElementById("status").innerText = "⏳ कृपया प्रतीक्षा करें...";
     try {
-      const res = await fetch(params.url),
+      // Query parameters बनाना
+      const queryParams = new URLSearchParams(params).toString();
+      const urlWithParams = `${params.url}?${queryParams}`;
+
+      const res = await fetch(urlWithParams, {
+        method: "GET",
+        headers: {
+          "Content-Type": "application/json", // optional for GET
+        },
       });
+      const data = await res.json();
+      console.log(data);
       if (res.ok) {
         document.getElementById("status").innerText = "✅ आपकी फ़ाइल Telegram पर भेज दी गई है!";
       } else {
